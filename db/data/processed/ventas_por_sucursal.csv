@@ -1,0 +1,200 @@
+ID_Sucursal,Nombre,Ubicacion,Tipo,Ventas_Totales,Promedio_Venta,Transacciones_Totales,Productos_Vendidos
+1,Realbridge,Isanlu Itedoijowa,Premium,2589.86,258.986,10,491
+2,Gigazoom,Libas,Estandar,1767.01,294.50166666666667,6,198
+3,Jatri,Katima Mulilo,Premium,428.28999999999996,107.07249999999999,4,234
+4,Jabberbean,Tongjing,Estandar,1807.6100000000001,301.2683333333334,6,253
+5,Livetube,Āsmār,Estandar,1937.5700000000002,242.19625000000002,8,456
+6,Jabbersphere,Jianfeng,Premium,296.46,148.23,2,127
+7,Realblab,Trondheim,Estandar,2227.57,247.5077777777778,9,322
+8,Jetwire,Marilao,Premium,415.31,138.43666666666667,3,110
+9,Jayo,Wahai,Premium,2018.18,224.24222222222224,9,584
+10,Eamia,Mingshan,Estandar,690.85,172.7125,4,140
+11,Tavu,Burns Lake,Premium,977.86,195.572,5,188
+12,Jaxnation,Krasnoshchekovo,Estandar,911.95,303.98333333333335,3,211
+13,Mydo,Zhanghekou,Premium,1347.52,269.504,5,213
+14,Flashdog,Florida,Estandar,1113.9299999999998,222.78599999999997,5,225
+15,Skyvu,Clonskeagh,Premium,736.06,184.015,4,206
+16,Quatz,Pandansari,Premium,862.2,287.40000000000003,3,89
+17,Kaymbo,Sibiti,Premium,1046.8700000000001,261.71750000000003,4,155
+18,Vinder,Berendeyevo,Estandar,1464.31,244.05166666666665,6,424
+19,Dynava,Xinjie,Premium,1353.35,270.66999999999996,5,162
+20,Meedoo,Fianarantsoa,Premium,2405.94,343.7057142857143,7,329
+21,Aivee,Eg,Estandar,900.69,150.115,6,246
+22,Divape,Ya’ergenchu,Premium,1749.3899999999999,291.565,6,372
+23,Meevee,Ashgabat,Estandar,848.33,212.0825,4,253
+24,Jayo,Ami,Premium,760.11,253.37,3,169
+25,Jaxworks,Watthana Nakhon,Premium,2962.62,296.262,10,443
+26,Oloo,Xukou,Premium,1236.8200000000002,247.36400000000003,5,291
+27,Pixonyx,Luodian,Estandar,2004.97,250.62125,8,351
+28,Kanoodle,Ziębice,Premium,1832.01,305.335,6,379
+29,InnoZ,Los Nogales,Premium,1096.13,219.22600000000003,5,295
+30,Yodo,Vatutino,Estandar,1263.31,252.66199999999998,5,232
+31,Cogilith,Bernal,Estandar,480.44,240.22,2,142
+32,Zoomzone,Nanjie,Estandar,1522.79,304.558,5,163
+33,Rooxo,Donnacona,Estandar,1062.53,212.506,5,276
+34,Eazzy,Mislīyah,Premium,307.2,102.39999999999999,3,132
+35,Babblestorm,La Azulita,Premium,1268.76,253.752,5,194
+36,Yoveo,Chóra,Premium,838.59,279.53000000000003,3,209
+37,Twitterworks,Todorovo,Premium,969.75,161.625,6,311
+38,Vinte,That Phanom,Estandar,1216.38,304.095,4,112
+39,Meedoo,Kasaoka,Estandar,1134.38,189.06333333333336,6,355
+40,Jaxspan,Tournon-sur-Rhône,Estandar,2117.4300000000003,235.27000000000004,9,329
+41,Kanoodle,San Luis,Premium,1043.6799999999998,208.73599999999996,5,218
+42,Mydo,Samborondón,Premium,1167.33,291.8325,4,202
+43,Aimbo,Sobontoro,Estandar,1888.85,209.8722222222222,9,540
+44,Roombo,Ritaebang,Estandar,1621.1100000000001,202.63875000000002,8,314
+45,Dabfeed,Dougou,Estandar,695.3,173.825,4,280
+46,Riffpath,Cadagmayan Norte,Estandar,640.55,320.275,2,32
+47,Aivee,Bāglung,Premium,1271.64,211.94000000000003,6,380
+48,Ozu,Kombandaru,Premium,926.58,231.645,4,244
+49,Skidoo,Khuzhir,Estandar,1424.52,284.904,5,163
+50,Flipbug,Lalupon,Premium,969.16,193.832,5,160
+51,Camido,Leiria,Premium,1085.07,217.01399999999998,5,174
+52,Topicblab,Belo Jardim,Estandar,415.92,415.92,1,17
+53,Izio,Nantes,Estandar,1246.99,138.55444444444444,9,343
+54,Vitz,Kislyakovskaya,Estandar,593.76,148.44,4,231
+55,Fivechat,Candelaria,Estandar,615.0899999999999,205.02999999999997,3,92
+56,Realcube,Candelária,Estandar,949.64,189.928,5,201
+57,Youbridge,Oklahoma City,Estandar,1625.14,232.16285714285715,7,289
+58,Mudo,Itapecerica,Premium,1910.26,238.7825,8,392
+59,Vimbo,Vrbas,Estandar,2139.37,237.70777777777778,9,433
+60,Realcube,Thị Trấn Thất Khê,Estandar,1944.5700000000002,277.7957142857143,7,277
+61,Avamm,Bweyogerere,Premium,1657.63,331.526,5,248
+62,Yodoo,Lapu-Lapu City,Estandar,1108.89,277.2225,4,138
+63,Skinte,Vạn Giã,Premium,2153.04,358.84,6,296
+64,Quire,Ryazhsk,Estandar,459.39,229.695,2,182
+65,Skipstorm,San Jacinto,Estandar,1009.44,336.48,3,145
+66,Mydo,Detroit,Estandar,996.06,249.015,4,166
+67,Flashdog,Wulongshan,Estandar,577.28,144.32,4,136
+68,Skalith,Fatufaun,Premium,209.82,104.91,2,24
+69,Trudoo,Cikeper,Premium,1062.73,265.6825,4,172
+70,Tazz,Tomaszów Lubelski,Estandar,1335.41,267.082,5,313
+71,Pixonyx,Nîmes,Estandar,1382.9,276.58000000000004,5,205
+72,Photobug,Dubrovka,Estandar,1469.76,209.96571428571428,7,311
+73,Devify,Uppsala,Estandar,1389.0,231.5,6,390
+74,Meedoo,Taounate,Premium,445.53999999999996,111.38499999999999,4,184
+75,Realfire,Surkh Bilandī,Premium,717.4399999999999,102.49142857142856,7,320
+76,Voomm,Svyatogorsk,Estandar,1436.0,239.33333333333334,6,285
+77,Yabox,La Habana Vieja,Estandar,1196.65,299.1625,4,228
+78,Janyx,Esmeraldas,Premium,597.55,298.775,2,147
+79,Kanoodle,Bandera,Premium,1434.1,204.87142857142857,7,473
+80,Centizu,Nangang,Premium,1261.16,315.29,4,288
+81,Skynoodle,Bom Jesus do Itabapoana,Premium,1084.25,216.85,5,279
+82,Kwideo,Aygeshat,Premium,2538.78,317.3475,8,484
+83,Cogidoo,Kafir Yasif,Premium,2510.76,358.68,7,168
+84,Tagchat,Bakuriani,Premium,1306.22,326.555,4,218
+85,Fatz,Mangdang,Premium,1765.44,294.24,6,302
+86,Shuffletag,Qufu,Premium,1667.94,277.99,6,347
+87,Skaboo,Mayskiy,Estandar,842.1,280.7,3,225
+88,Edgeblab,Polyarnyy,Premium,20.09,20.09,1,23
+89,Midel,Bilaran,Estandar,977.31,244.3275,4,248
+90,Vinder,Gīdolē,Premium,889.76,444.88,2,172
+91,Feednation,Shuiji,Estandar,1002.07,167.01166666666668,6,331
+92,Dabfeed,Khudāydād Khēl,Estandar,632.5699999999999,105.42833333333333,6,302
+93,Trilia,Bharatpur,Estandar,2856.06,285.606,10,540
+94,Kwilith,Huaqiao,Premium,1621.77,405.4425,4,207
+95,Feedfire,Soufrière,Estandar,842.5400000000001,120.36285714285715,7,540
+96,Einti,Lukhovka,Premium,478.91999999999996,159.64,3,95
+97,Skajo,Botlhapatlou,Premium,932.91,310.96999999999997,3,177
+98,Tagchat,Bang Racham,Estandar,422.75,211.375,2,74
+99,Youopia,Mossendjo,Premium,1121.43,280.3575,4,236
+100,Twimm,Seres,Estandar,1506.57,301.31399999999996,5,136
+101,BlogXS,Floriana,Premium,1354.41,270.882,5,355
+102,Meezzy,Kanganpur,Estandar,96.24,96.24,1,10
+103,Twitterbridge,Punat,Premium,830.33,207.5825,4,265
+105,Eadel,Spitak,Premium,1118.88,223.776,5,253
+106,Zoombox,Cipinang,Estandar,1309.3200000000002,145.48000000000002,9,457
+107,Wikizz,Kintinku,Estandar,1221.58,305.395,4,304
+108,Rhyzio,Shangde,Premium,803.99,267.99666666666667,3,133
+109,Skinte,Xiwei,Premium,645.1999999999999,215.06666666666663,3,148
+110,Photofeed,Odintsovo,Estandar,2475.05,412.5083333333334,6,262
+111,Riffpedia,Delray Beach,Premium,351.08,175.54,2,128
+112,Jaloo,Aromashevo,Estandar,826.81,413.405,2,110
+113,Teklist,Kademangan,Premium,1168.3,292.075,4,192
+114,Eidel,Bayan-Ovoo,Estandar,1105.8899999999999,276.47249999999997,4,208
+115,Ntag,Côte-Saint-Luc,Premium,1995.07,249.38375,8,318
+116,Ailane,Nema,Estandar,2799.07,399.8671428571429,7,532
+117,Mydeo,Bandaragung,Estandar,2385.79,298.22375,8,555
+118,Tagchat,El Gouna,Premium,2538.13,282.01444444444445,9,526
+119,Aivee,Köyliö,Estandar,1629.25,232.75,7,421
+120,Shuffletag,Cambanay,Estandar,718.1500000000001,359.07500000000005,2,71
+121,Rhyzio,Carpiquet,Estandar,571.94,190.64666666666668,3,136
+122,Layo,Krajan,Estandar,1663.7199999999998,332.74399999999997,5,217
+123,Edgeblab,Metz,Premium,2325.62,332.2314285714286,7,227
+124,Dabfeed,Fanhu,Premium,1794.8,299.1333333333333,6,135
+125,Omba,Yartsevo,Estandar,1335.87,222.64499999999998,6,282
+126,Eidel,Llipa,Premium,1651.8799999999999,275.31333333333333,6,248
+127,Ntags,Fuquan,Estandar,1119.01,279.7525,4,252
+128,Feednation,Cantaura,Estandar,802.58,267.5266666666667,3,174
+129,Latz,Santa Rita,Estandar,1410.4499999999998,282.09,5,327
+130,Kayveo,Hyattsville,Premium,2967.13,296.713,10,434
+131,Miboo,Galán,Premium,1448.73,241.455,6,291
+132,Rhyloo,Lorengau,Premium,425.17,425.17,1,3
+133,Flashset,Kihniö,Estandar,465.37,232.685,2,139
+134,Rhybox,Zonghan,Premium,400.49,133.49666666666667,3,175
+135,Skivee,Vale Maceiras,Estandar,1115.23,223.046,5,221
+136,Tagopia,Matoupu,Estandar,925.97,231.4925,4,201
+137,Chatterpoint,Buenos Aires,Estandar,913.43,228.3575,4,258
+138,Kwilith,Belén,Premium,647.8000000000001,161.95000000000002,4,95
+139,Centimia,Datar,Estandar,1349.1399999999999,224.85666666666665,6,341
+140,Twitterbeat,Zhaike,Estandar,1116.27,372.09,3,153
+141,Oyondu,Daitou,Estandar,1162.08,290.52,4,165
+142,Linkbuzz,Valparaíso,Estandar,1123.09,224.618,5,350
+143,Eadel,Kawangohari,Premium,1739.27,289.87833333333333,6,285
+144,Vitz,Jinshan,Premium,1680.91,240.13000000000002,7,459
+145,Fliptune,Modosinal,Premium,2088.41,417.68199999999996,5,172
+146,Youfeed,Claremont,Estandar,989.38,247.345,4,208
+147,Divavu,Kutamandarakan,Estandar,86.98,86.98,1,55
+148,Yoveo,Shisandaogou,Estandar,1116.52,279.13,4,242
+149,Ainyx,Khanabad,Premium,439.48,219.74,2,162
+150,Npath,Głogów Małopolski,Premium,440.8,440.8,1,83
+151,JumpXS,Nianba,Premium,2347.81,234.781,10,675
+152,Skimia,Khursā,Estandar,1416.69,236.115,6,406
+153,Fadeo,Stockholm,Estandar,1636.45,327.29,5,234
+154,Twitterbeat,Ngudu,Estandar,1397.48,279.496,5,286
+155,Roomm,Kanlagay,Premium,1756.86,292.81,6,383
+156,Edgepulse,Xinhui,Premium,827.8,206.95,4,178
+157,Brainverse,Changxing,Premium,1265.8400000000001,316.46000000000004,4,91
+158,Trupe,El Soberbio,Estandar,1040.88,260.22,4,197
+159,Twitterbeat,"Palmas De Gran Canaria, Las",Estandar,898.0999999999999,224.52499999999998,4,180
+160,Jabbersphere,Saarbrücken,Estandar,749.6999999999999,249.89999999999998,3,147
+161,Latz,Baiyang,Premium,1088.4099999999999,272.10249999999996,4,150
+162,Yata,Yingpu,Estandar,2720.9700000000003,272.09700000000004,10,646
+163,Jaxspan,Ouijjane,Estandar,792.5799999999999,264.1933333333333,3,202
+164,Skibox,New Iloilo,Premium,936.09,312.03000000000003,3,153
+165,Yakitri,Lena,Premium,830.47,415.235,2,165
+166,Rhybox,Maskinongé,Premium,840.8100000000001,168.162,5,215
+167,Lajo,General Luna,Premium,1606.13,229.44714285714286,7,305
+168,Blognation,San Pedro Pinula,Estandar,965.52,321.84,3,185
+169,Yakitri,Aborlan,Estandar,821.56,205.39,4,229
+170,Devpulse,Yangxunqiao,Estandar,2309.63,288.70375,8,323
+171,Quatz,Belyayevka,Premium,953.26,238.315,4,150
+172,Kimia,Brzeźnica,Estandar,1171.63,195.27166666666668,6,295
+173,Vidoo,Liwu,Estandar,2139.67,427.934,5,270
+174,Jaxspan,Kallithéa,Premium,2496.9700000000003,277.4411111111111,9,435
+175,Topiczoom,Xarrë,Premium,339.38,339.38,1,33
+176,Twimbo,Bangad,Premium,1016.42,145.20285714285714,7,311
+177,Eare,Övertorneå,Premium,1117.53,223.506,5,329
+178,Yabox,Igbor,Premium,626.6,208.86666666666667,3,176
+179,Topicstorm,Abakaliki,Premium,1703.55,283.925,6,296
+180,Bubblemix,Pasarkuok,Estandar,1839.3600000000001,367.872,5,177
+181,Riffpath,Anchorage,Premium,2924.12,365.515,8,285
+182,Zooveo,Żyrardów,Estandar,1564.1399999999999,260.69,6,403
+183,Leexo,San Antonio Oeste,Premium,1525.13,305.026,5,225
+184,Browseblab,Srokowo,Premium,1009.99,144.28428571428572,7,433
+185,Eire,Atikokan,Estandar,622.05,311.025,2,62
+186,Yakidoo,Santa Maria,Estandar,1603.57,267.26166666666666,6,230
+187,Wikizz,Būlaevo,Estandar,1608.58,321.716,5,344
+188,Jaxnation,Vigo,Premium,2242.49,249.16555555555553,9,568
+189,Dabjam,Cibolang,Premium,2247.83,280.97875,8,400
+190,Thoughtsphere,Żarki-Letnisko,Estandar,557.8399999999999,185.94666666666663,3,181
+191,Camimbo,Kpalimé,Premium,1020.59,255.1475,4,140
+192,Tagtune,Boavista,Estandar,905.74,226.435,4,341
+193,Thoughtsphere,Gråbo,Estandar,887.29,221.8225,4,227
+194,Flipbug,Jiangjiazui,Estandar,1003.29,250.8225,4,164
+195,Photobean,Alvand,Premium,2217.44,277.18,8,280
+196,Browsezoom,Bali,Premium,720.7,360.35,2,39
+197,Jaloo,Fengyuan,Premium,1078.52,269.63,4,191
+198,Camimbo,Al ‘Azīzīyah,Estandar,1333.05,190.43571428571428,7,372
+199,Npath,Pesagen,Estandar,2189.83,243.31444444444443,9,384
+200,Voonix,Prilep,Premium,2926.99,365.87375,8,279

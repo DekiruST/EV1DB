@@ -1,0 +1,201 @@
+ID_Sucursal,Nombre,Ubicacion,Capacidad,Tipo
+1,Realbridge,Isanlu Itedoijowa,582,Premium
+2,Gigazoom,Libas,708,Estandar
+3,Jatri,Katima Mulilo,476,Premium
+4,Jabberbean,Tongjing,859,Estandar
+5,Livetube,Āsmār,807,Estandar
+6,Jabbersphere,Jianfeng,164,Premium
+7,Realblab,Trondheim,381,Estandar
+8,Jetwire,Marilao,764,Premium
+9,Jayo,Wahai,299,Premium
+10,Eamia,Mingshan,988,Estandar
+11,Tavu,Burns Lake,122,Premium
+12,Jaxnation,Krasnoshchekovo,258,Estandar
+13,Mydo,Zhanghekou,392,Premium
+14,Flashdog,Florida,641,Estandar
+15,Skyvu,Clonskeagh,531,Premium
+16,Quatz,Pandansari,766,Premium
+17,Kaymbo,Sibiti,312,Premium
+18,Vinder,Berendeyevo,375,Estandar
+19,Dynava,Xinjie,202,Premium
+20,Meedoo,Fianarantsoa,678,Premium
+21,Aivee,Eg,119,Estandar
+22,Divape,Ya’ergenchu,861,Premium
+23,Meevee,Ashgabat,653,Estandar
+24,Jayo,Ami,212,Premium
+25,Jaxworks,Watthana Nakhon,714,Premium
+26,Oloo,Xukou,486,Premium
+27,Pixonyx,Luodian,214,Estandar
+28,Kanoodle,Ziębice,167,Premium
+29,InnoZ,Los Nogales,574,Premium
+30,Yodo,Vatutino,892,Estandar
+31,Cogilith,Bernal,678,Estandar
+32,Zoomzone,Nanjie,894,Estandar
+33,Rooxo,Donnacona,769,Estandar
+34,Eazzy,Mislīyah,723,Premium
+35,Babblestorm,La Azulita,491,Premium
+36,Yoveo,Chóra,110,Premium
+37,Twitterworks,Todorovo,122,Premium
+38,Vinte,That Phanom,944,Estandar
+39,Meedoo,Kasaoka,641,Estandar
+40,Jaxspan,Tournon-sur-Rhône,848,Estandar
+41,Kanoodle,San Luis,515,Premium
+42,Mydo,Samborondón,795,Premium
+43,Aimbo,Sobontoro,649,Estandar
+44,Roombo,Ritaebang,735,Estandar
+45,Dabfeed,Dougou,641,Estandar
+46,Riffpath,Cadagmayan Norte,788,Estandar
+47,Aivee,Bāglung,476,Premium
+48,Ozu,Kombandaru,131,Premium
+49,Skidoo,Khuzhir,776,Estandar
+50,Flipbug,Lalupon,744,Premium
+51,Camido,Leiria,592,Premium
+52,Topicblab,Belo Jardim,743,Estandar
+53,Izio,Nantes,202,Estandar
+54,Vitz,Kislyakovskaya,260,Estandar
+55,Fivechat,Candelaria,321,Estandar
+56,Realcube,Candelária,547,Estandar
+57,Youbridge,Oklahoma City,731,Estandar
+58,Mudo,Itapecerica,198,Premium
+59,Vimbo,Vrbas,824,Estandar
+60,Realcube,Thị Trấn Thất Khê,164,Estandar
+61,Avamm,Bweyogerere,497,Premium
+62,Yodoo,Lapu-Lapu City,614,Estandar
+63,Skinte,Vạn Giã,832,Premium
+64,Quire,Ryazhsk,909,Estandar
+65,Skipstorm,San Jacinto,843,Estandar
+66,Mydo,Detroit,942,Estandar
+67,Flashdog,Wulongshan,838,Estandar
+68,Skalith,Fatufaun,379,Premium
+69,Trudoo,Cikeper,305,Premium
+70,Tazz,Tomaszów Lubelski,208,Estandar
+71,Pixonyx,Nîmes,708,Estandar
+72,Photobug,Dubrovka,415,Estandar
+73,Devify,Uppsala,206,Estandar
+74,Meedoo,Taounate,600,Premium
+75,Realfire,Surkh Bilandī,816,Premium
+76,Voomm,Svyatogorsk,400,Estandar
+77,Yabox,La Habana Vieja,924,Estandar
+78,Janyx,Esmeraldas,268,Premium
+79,Kanoodle,Bandera,546,Premium
+80,Centizu,Nangang,248,Premium
+81,Skynoodle,Bom Jesus do Itabapoana,995,Premium
+82,Kwideo,Aygeshat,586,Premium
+83,Cogidoo,Kafir Yasif,649,Premium
+84,Tagchat,Bakuriani,158,Premium
+85,Fatz,Mangdang,925,Premium
+86,Shuffletag,Qufu,675,Premium
+87,Skaboo,Mayskiy,803,Estandar
+88,Edgeblab,Polyarnyy,979,Premium
+89,Midel,Bilaran,115,Estandar
+90,Vinder,Gīdolē,369,Premium
+91,Feednation,Shuiji,577,Estandar
+92,Dabfeed,Khudāydād Khēl,731,Estandar
+93,Trilia,Bharatpur,286,Estandar
+94,Kwilith,Huaqiao,737,Premium
+95,Feedfire,Soufrière,320,Estandar
+96,Einti,Lukhovka,453,Premium
+97,Skajo,Botlhapatlou,762,Premium
+98,Tagchat,Bang Racham,847,Estandar
+99,Youopia,Mossendjo,523,Premium
+100,Twimm,Seres,945,Estandar
+101,BlogXS,Floriana,296,Premium
+102,Meezzy,Kanganpur,730,Estandar
+103,Twitterbridge,Punat,623,Premium
+104,Devshare,Cangkreng,449,Estandar
+105,Eadel,Spitak,141,Premium
+106,Zoombox,Cipinang,843,Estandar
+107,Wikizz,Kintinku,795,Estandar
+108,Rhyzio,Shangde,577,Premium
+109,Skinte,Xiwei,273,Premium
+110,Photofeed,Odintsovo,426,Estandar
+111,Riffpedia,Delray Beach,326,Premium
+112,Jaloo,Aromashevo,948,Estandar
+113,Teklist,Kademangan,527,Premium
+114,Eidel,Bayan-Ovoo,241,Estandar
+115,Ntag,Côte-Saint-Luc,507,Premium
+116,Ailane,Nema,512,Estandar
+117,Mydeo,Bandaragung,696,Estandar
+118,Tagchat,El Gouna,379,Premium
+119,Aivee,Köyliö,779,Estandar
+120,Shuffletag,Cambanay,526,Estandar
+121,Rhyzio,Carpiquet,362,Estandar
+122,Layo,Krajan,728,Estandar
+123,Edgeblab,Metz,819,Premium
+124,Dabfeed,Fanhu,280,Premium
+125,Omba,Yartsevo,736,Estandar
+126,Eidel,Llipa,905,Premium
+127,Ntags,Fuquan,838,Estandar
+128,Feednation,Cantaura,684,Estandar
+129,Latz,Santa Rita,108,Estandar
+130,Kayveo,Hyattsville,119,Premium
+131,Miboo,Galán,526,Premium
+132,Rhyloo,Lorengau,378,Premium
+133,Flashset,Kihniö,167,Estandar
+134,Rhybox,Zonghan,482,Premium
+135,Skivee,Vale Maceiras,335,Estandar
+136,Tagopia,Matoupu,285,Estandar
+137,Chatterpoint,Buenos Aires,110,Estandar
+138,Kwilith,Belén,317,Premium
+139,Centimia,Datar,221,Estandar
+140,Twitterbeat,Zhaike,676,Estandar
+141,Oyondu,Daitou,151,Estandar
+142,Linkbuzz,Valparaíso,203,Estandar
+143,Eadel,Kawangohari,567,Premium
+144,Vitz,Jinshan,711,Premium
+145,Fliptune,Modosinal,526,Premium
+146,Youfeed,Claremont,965,Estandar
+147,Divavu,Kutamandarakan,186,Estandar
+148,Yoveo,Shisandaogou,473,Estandar
+149,Ainyx,Khanabad,274,Premium
+150,Npath,Głogów Małopolski,963,Premium
+151,JumpXS,Nianba,839,Premium
+152,Skimia,Khursā,694,Estandar
+153,Fadeo,Stockholm,713,Estandar
+154,Twitterbeat,Ngudu,263,Estandar
+155,Roomm,Kanlagay,884,Premium
+156,Edgepulse,Xinhui,573,Premium
+157,Brainverse,Changxing,577,Premium
+158,Trupe,El Soberbio,419,Estandar
+159,Twitterbeat,"Palmas De Gran Canaria, Las",494,Estandar
+160,Jabbersphere,Saarbrücken,866,Estandar
+161,Latz,Baiyang,894,Premium
+162,Yata,Yingpu,686,Estandar
+163,Jaxspan,Ouijjane,777,Estandar
+164,Skibox,New Iloilo,135,Premium
+165,Yakitri,Lena,134,Premium
+166,Rhybox,Maskinongé,866,Premium
+167,Lajo,General Luna,116,Premium
+168,Blognation,San Pedro Pinula,125,Estandar
+169,Yakitri,Aborlan,606,Estandar
+170,Devpulse,Yangxunqiao,349,Estandar
+171,Quatz,Belyayevka,243,Premium
+172,Kimia,Brzeźnica,387,Estandar
+173,Vidoo,Liwu,984,Estandar
+174,Jaxspan,Kallithéa,713,Premium
+175,Topiczoom,Xarrë,811,Premium
+176,Twimbo,Bangad,544,Premium
+177,Eare,Övertorneå,957,Premium
+178,Yabox,Igbor,827,Premium
+179,Topicstorm,Abakaliki,238,Premium
+180,Bubblemix,Pasarkuok,959,Estandar
+181,Riffpath,Anchorage,703,Premium
+182,Zooveo,Żyrardów,389,Estandar
+183,Leexo,San Antonio Oeste,490,Premium
+184,Browseblab,Srokowo,580,Premium
+185,Eire,Atikokan,177,Estandar
+186,Yakidoo,Santa Maria,922,Estandar
+187,Wikizz,Būlaevo,942,Estandar
+188,Jaxnation,Vigo,946,Premium
+189,Dabjam,Cibolang,878,Premium
+190,Thoughtsphere,Żarki-Letnisko,524,Estandar
+191,Camimbo,Kpalimé,468,Premium
+192,Tagtune,Boavista,805,Estandar
+193,Thoughtsphere,Gråbo,330,Estandar
+194,Flipbug,Jiangjiazui,210,Estandar
+195,Photobean,Alvand,956,Premium
+196,Browsezoom,Bali,930,Premium
+197,Jaloo,Fengyuan,869,Premium
+198,Camimbo,Al ‘Azīzīyah,447,Estandar
+199,Npath,Pesagen,305,Estandar
+200,Voonix,Prilep,235,Premium

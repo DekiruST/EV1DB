@@ -1,0 +1,1001 @@
+ID_Venta,ID_Sucursal,Fecha,Producto,Monto,Cantidad,Nombre,Ubicacion,Capacidad,Tipo,Año,Mes
+1,60,2024-07-06,Computers,314.68,8,Realcube,Thị Trấn Thất Khê,164,Estandar,2024,7
+2,82,2024-12-25,Tools,254.27,45,Kwideo,Aygeshat,586,Premium,2024,12
+3,200,2024-08-13,Grocery,187.07,27,Voonix,Prilep,235,Premium,2024,8
+4,195,2025-02-11,Books,54.82,93,Photobean,Alvand,956,Premium,2025,2
+5,37,2024-10-01,Industrial,170.7,63,Twitterworks,Todorovo,122,Premium,2024,10
+6,129,2024-09-27,Computers,362.28,93,Latz,Santa Rita,108,Estandar,2024,9
+7,27,2025-03-08,Automotive,49.28,85,Pixonyx,Luodian,214,Estandar,2025,3
+8,131,2025-02-24,Home,25.74,24,Miboo,Galán,526,Premium,2025,2
+9,124,2025-02-16,Clothing,411.39,36,Dabfeed,Fanhu,280,Premium,2025,2
+10,127,2024-09-03,Electronics,485.31,70,Ntags,Fuquan,838,Estandar,2024,9
+11,191,2024-12-04,Movies,429.27,7,Camimbo,Kpalimé,468,Premium,2024,12
+12,178,2025-05-24,Garden,294.56,40,Yabox,Igbor,827,Premium,2025,5
+13,181,2024-07-02,Home,339.88,18,Riffpath,Anchorage,703,Premium,2024,7
+14,24,2025-06-05,Computers,227.06,75,Jayo,Ami,212,Premium,2025,6
+15,48,2024-06-24,Beauty,357.47,91,Ozu,Kombandaru,131,Premium,2024,6
+16,54,2024-12-02,Movies,162.54,79,Vitz,Kislyakovskaya,260,Estandar,2024,12
+17,145,2025-04-18,Garden,326.31,23,Fliptune,Modosinal,526,Premium,2025,4
+18,184,2025-03-24,Automotive,416.06,23,Browseblab,Srokowo,580,Premium,2025,3
+19,30,2024-09-03,Jewelry,268.03,36,Yodo,Vatutino,892,Estandar,2024,9
+20,161,2025-04-15,Industrial,206.49,9,Latz,Baiyang,894,Premium,2025,4
+21,91,2025-01-15,Health,151.08,62,Feednation,Shuiji,577,Estandar,2025,1
+22,66,2025-06-16,Automotive,182.91,29,Mydo,Detroit,942,Estandar,2025,6
+23,65,2025-02-17,Tools,286.92,25,Skipstorm,San Jacinto,843,Estandar,2025,2
+24,115,2024-09-29,Grocery,457.99,26,Ntag,Côte-Saint-Luc,507,Premium,2024,9
+25,38,2025-02-23,Automotive,258.04,5,Vinte,That Phanom,944,Estandar,2025,2
+26,100,2025-04-04,Shoes,112.39,33,Twimm,Seres,945,Estandar,2025,4
+27,48,2025-04-11,Grocery,14.54,89,Ozu,Kombandaru,131,Premium,2025,4
+28,76,2024-12-04,Sports,325.08,56,Voomm,Svyatogorsk,400,Estandar,2024,12
+29,173,2025-03-26,Music,485.94,56,Vidoo,Liwu,984,Estandar,2025,3
+30,69,2024-11-10,Games,303.73,37,Trudoo,Cikeper,305,Premium,2024,11
+31,48,2024-10-27,Electronics,474.86,5,Ozu,Kombandaru,131,Premium,2024,10
+32,21,2024-10-23,Music,16.67,24,Aivee,Eg,119,Estandar,2024,10
+33,127,2024-11-20,Industrial,222.64,78,Ntags,Fuquan,838,Estandar,2024,11
+34,152,2024-08-02,Baby,424.53,34,Skimia,Khursā,694,Estandar,2024,8
+35,184,2024-11-29,Garden,226.94,92,Browseblab,Srokowo,580,Premium,2024,11
+36,95,2024-08-30,Clothing,10.36,54,Feedfire,Soufrière,320,Estandar,2024,8
+37,123,2024-08-17,Tools,222.02,35,Edgeblab,Metz,819,Premium,2024,8
+38,108,2025-05-09,Home,124.3,40,Rhyzio,Shangde,577,Premium,2025,5
+39,71,2024-11-03,Automotive,33.47,9,Pixonyx,Nîmes,708,Estandar,2024,11
+40,51,2024-10-13,Electronics,187.24,25,Camido,Leiria,592,Premium,2024,10
+41,179,2024-10-21,Shoes,12.69,22,Topicstorm,Abakaliki,238,Premium,2024,10
+42,36,2025-05-29,Jewelry,499.3,31,Yoveo,Chóra,110,Premium,2025,5
+43,3,2024-08-12,Clothing,121.1,100,Jatri,Katima Mulilo,476,Premium,2024,8
+44,73,2024-06-25,Clothing,185.2,92,Devify,Uppsala,206,Estandar,2024,6
+45,163,2025-01-20,Health,284.65,95,Jaxspan,Ouijjane,777,Estandar,2025,1
+46,18,2024-10-30,Tools,174.07,61,Vinder,Berendeyevo,375,Estandar,2024,10
+47,169,2025-02-04,Shoes,39.27,52,Yakitri,Aborlan,606,Estandar,2025,2
+48,171,2025-05-31,Garden,154.09,38,Quatz,Belyayevka,243,Premium,2025,5
+49,110,2025-05-21,Movies,470.43,51,Photofeed,Odintsovo,426,Estandar,2025,5
+50,26,2024-09-28,Garden,294.12,59,Oloo,Xukou,486,Premium,2024,9
+51,16,2024-10-12,Clothing,362.02,11,Quatz,Pandansari,766,Premium,2024,10
+52,174,2024-10-30,Computers,426.57,88,Jaxspan,Kallithéa,713,Premium,2024,10
+53,189,2024-08-16,Kids,347.28,35,Dabjam,Cibolang,878,Premium,2024,8
+54,57,2024-11-21,Shoes,32.72,4,Youbridge,Oklahoma City,731,Estandar,2024,11
+55,128,2025-05-25,Kids,275.42,32,Feednation,Cantaura,684,Estandar,2025,5
+56,137,2024-09-09,Movies,486.68,34,Chatterpoint,Buenos Aires,110,Estandar,2024,9
+57,43,2024-10-11,Home,461.47,72,Aimbo,Sobontoro,649,Estandar,2024,10
+58,153,2024-10-07,Books,317.42,94,Fadeo,Stockholm,713,Estandar,2024,10
+59,125,2025-04-15,Music,264.51,10,Omba,Yartsevo,736,Estandar,2025,4
+60,86,2025-02-13,Shoes,436.38,55,Shuffletag,Qufu,675,Premium,2025,2
+61,3,2024-12-01,Movies,11.93,52,Jatri,Katima Mulilo,476,Premium,2024,12
+62,20,2024-09-24,Beauty,344.1,64,Meedoo,Fianarantsoa,678,Premium,2024,9
+63,188,2024-07-07,Clothing,134.63,55,Jaxnation,Vigo,946,Premium,2024,7
+64,26,2024-10-21,Industrial,194.74,5,Oloo,Xukou,486,Premium,2024,10
+65,84,2024-10-15,Sports,395.29,70,Tagchat,Bakuriani,158,Premium,2024,10
+66,121,2025-05-12,Grocery,152.02,5,Rhyzio,Carpiquet,362,Estandar,2025,5
+67,29,2025-04-26,Music,364.45,51,InnoZ,Los Nogales,574,Premium,2025,4
+68,174,2024-11-14,Jewelry,194.0,38,Jaxspan,Kallithéa,713,Premium,2024,11
+69,17,2024-11-21,Beauty,128.82,11,Kaymbo,Sibiti,312,Premium,2024,11
+70,200,2024-11-25,Movies,395.04,96,Voonix,Prilep,235,Premium,2024,11
+71,188,2025-05-10,Games,151.87,7,Jaxnation,Vigo,946,Premium,2025,5
+72,47,2024-07-18,Shoes,391.57,88,Aivee,Bāglung,476,Premium,2024,7
+73,198,2025-02-25,Jewelry,186.12,16,Camimbo,Al ‘Azīzīyah,447,Estandar,2025,2
+74,107,2024-09-24,Home,225.26,99,Wikizz,Kintinku,795,Estandar,2024,9
+75,126,2024-11-17,Health,280.03,27,Eidel,Llipa,905,Premium,2024,11
+76,94,2024-07-09,Tools,458.32,47,Kwilith,Huaqiao,737,Premium,2024,7
+77,159,2025-05-04,Garden,153.39,58,Twitterbeat,"Palmas De Gran Canaria, Las",494,Estandar,2025,5
+78,145,2024-09-28,Kids,458.2,79,Fliptune,Modosinal,526,Premium,2024,9
+79,101,2025-04-01,Health,376.85,68,BlogXS,Floriana,296,Premium,2025,4
+80,123,2025-04-23,Garden,316.04,48,Edgeblab,Metz,819,Premium,2025,4
+81,32,2024-06-27,Kids,296.67,2,Zoomzone,Nanjie,894,Estandar,2024,6
+82,119,2025-06-09,Automotive,112.27,73,Aivee,Köyliö,779,Estandar,2025,6
+83,118,2024-07-27,Books,437.6,3,Tagchat,El Gouna,379,Premium,2024,7
+84,66,2025-06-13,Grocery,213.79,36,Mydo,Detroit,942,Estandar,2025,6
+85,103,2025-01-23,Computers,273.35,74,Twitterbridge,Punat,623,Premium,2025,1
+86,92,2025-05-27,Clothing,59.67,27,Dabfeed,Khudāydād Khēl,731,Estandar,2025,5
+87,176,2024-11-18,Industrial,74.79,24,Twimbo,Bangad,544,Premium,2024,11
+88,43,2024-12-29,Industrial,193.1,71,Aimbo,Sobontoro,649,Estandar,2024,12
+89,115,2024-12-04,Tools,431.24,66,Ntag,Côte-Saint-Luc,507,Premium,2024,12
+90,125,2025-02-24,Kids,25.33,20,Omba,Yartsevo,736,Estandar,2025,2
+91,186,2024-10-12,Garden,298.55,7,Yakidoo,Santa Maria,922,Estandar,2024,10
+92,79,2024-07-26,Tools,268.94,72,Kanoodle,Bandera,546,Premium,2024,7
+93,42,2025-05-08,Sports,174.03,73,Mydo,Samborondón,795,Premium,2025,5
+94,68,2024-11-01,Automotive,51.1,9,Skalith,Fatufaun,379,Premium,2024,11
+95,77,2025-01-30,Baby,319.54,88,Yabox,La Habana Vieja,924,Estandar,2025,1
+96,60,2024-08-25,Baby,460.45,39,Realcube,Thị Trấn Thất Khê,164,Estandar,2024,8
+97,80,2024-09-06,Outdoors,466.25,53,Centizu,Nangang,248,Premium,2024,9
+98,170,2025-01-18,Movies,59.56,33,Devpulse,Yangxunqiao,349,Estandar,2025,1
+99,154,2024-11-18,Home,132.78,80,Twitterbeat,Ngudu,263,Estandar,2024,11
+100,155,2024-10-26,Tools,309.99,54,Roomm,Kanlagay,884,Premium,2024,10
+101,170,2025-06-10,Health,311.97,46,Devpulse,Yangxunqiao,349,Estandar,2025,6
+102,186,2024-09-11,Games,119.71,39,Yakidoo,Santa Maria,922,Estandar,2024,9
+103,143,2025-02-15,Tools,290.25,38,Eadel,Kawangohari,567,Premium,2025,2
+104,162,2025-06-12,Shoes,380.24,37,Yata,Yingpu,686,Estandar,2025,6
+105,198,2024-10-30,Movies,494.26,70,Camimbo,Al ‘Azīzīyah,447,Estandar,2024,10
+106,193,2024-09-11,Baby,68.03,57,Thoughtsphere,Gråbo,330,Estandar,2024,9
+107,43,2024-09-01,Home,45.96,69,Aimbo,Sobontoro,649,Estandar,2024,9
+108,170,2025-04-28,Outdoors,280.47,26,Devpulse,Yangxunqiao,349,Estandar,2025,4
+109,162,2024-09-19,Music,309.85,99,Yata,Yingpu,686,Estandar,2024,9
+110,181,2024-12-12,Garden,392.1,1,Riffpath,Anchorage,703,Premium,2024,12
+111,80,2025-02-19,Clothing,21.92,85,Centizu,Nangang,248,Premium,2025,2
+112,154,2024-10-18,Automotive,413.21,19,Twitterbeat,Ngudu,263,Estandar,2024,10
+113,59,2024-07-19,Tools,70.72,96,Vimbo,Vrbas,824,Estandar,2024,7
+114,105,2024-12-02,Grocery,332.92,66,Eadel,Spitak,141,Premium,2024,12
+115,151,2024-07-17,Health,311.96,22,JumpXS,Nianba,839,Premium,2024,7
+116,18,2025-01-28,Outdoors,443.62,90,Vinder,Berendeyevo,375,Estandar,2025,1
+117,72,2024-08-01,Sports,180.98,33,Photobug,Dubrovka,415,Estandar,2024,8
+118,190,2024-12-30,Kids,144.56,55,Thoughtsphere,Żarki-Letnisko,524,Estandar,2024,12
+119,71,2025-02-06,Shoes,262.36,80,Pixonyx,Nîmes,708,Estandar,2025,2
+120,56,2025-02-24,Home,60.86,72,Realcube,Candelária,547,Estandar,2025,2
+121,23,2025-01-22,Music,80.51,9,Meevee,Ashgabat,653,Estandar,2025,1
+122,13,2025-01-26,Music,346.17,42,Mydo,Zhanghekou,392,Premium,2025,1
+123,152,2024-12-02,Shoes,219.66,78,Skimia,Khursā,694,Estandar,2024,12
+124,124,2024-10-17,Electronics,118.37,4,Dabfeed,Fanhu,280,Premium,2024,10
+125,55,2024-08-12,Automotive,124.63,45,Fivechat,Candelaria,321,Estandar,2024,8
+126,17,2024-12-03,Kids,420.24,69,Kaymbo,Sibiti,312,Premium,2024,12
+127,97,2025-04-26,Garden,280.62,39,Skajo,Botlhapatlou,762,Premium,2025,4
+128,200,2024-07-16,Computers,426.23,63,Voonix,Prilep,235,Premium,2024,7
+129,45,2024-07-07,Grocery,136.2,39,Dabfeed,Dougou,641,Estandar,2024,7
+130,186,2024-12-29,Home,292.01,51,Yakidoo,Santa Maria,922,Estandar,2024,12
+131,170,2024-10-01,Shoes,180.54,68,Devpulse,Yangxunqiao,349,Estandar,2024,10
+132,82,2025-02-10,Garden,410.5,72,Kwideo,Aygeshat,586,Premium,2025,2
+133,188,2024-07-14,Baby,200.71,89,Jaxnation,Vigo,946,Premium,2024,7
+134,144,2025-01-05,Beauty,242.01,99,Vitz,Jinshan,711,Premium,2025,1
+135,20,2025-02-18,Industrial,170.56,31,Meedoo,Fianarantsoa,678,Premium,2025,2
+136,103,2024-10-24,Sports,264.86,52,Twitterbridge,Punat,623,Premium,2024,10
+137,168,2024-07-16,Baby,282.18,86,Blognation,San Pedro Pinula,125,Estandar,2024,7
+138,39,2024-11-20,Home,419.54,53,Meedoo,Kasaoka,641,Estandar,2024,11
+139,58,2025-04-02,Grocery,412.54,99,Mudo,Itapecerica,198,Premium,2025,4
+140,194,2025-01-05,Games,308.67,70,Flipbug,Jiangjiazui,210,Estandar,2025,1
+141,195,2025-02-22,Games,472.04,22,Photobean,Alvand,956,Premium,2025,2
+142,40,2024-12-10,Electronics,219.05,11,Jaxspan,Tournon-sur-Rhône,848,Estandar,2024,12
+143,168,2025-02-23,Industrial,324.99,19,Blognation,San Pedro Pinula,125,Estandar,2025,2
+144,53,2025-05-29,Grocery,95.21,74,Izio,Nantes,202,Estandar,2025,5
+145,19,2025-02-08,Kids,242.84,37,Dynava,Xinjie,202,Premium,2025,2
+146,33,2025-03-03,Tools,437.78,44,Rooxo,Donnacona,769,Estandar,2025,3
+147,162,2025-05-28,Shoes,177.43,90,Yata,Yingpu,686,Estandar,2025,5
+148,192,2025-05-10,Jewelry,178.72,95,Tagtune,Boavista,805,Estandar,2025,5
+149,19,2024-09-15,Toys,402.9,18,Dynava,Xinjie,202,Premium,2024,9
+150,187,2025-04-05,Electronics,472.09,31,Wikizz,Būlaevo,942,Estandar,2025,4
+151,37,2025-02-17,Tools,337.23,2,Twitterworks,Todorovo,122,Premium,2025,2
+152,50,2025-05-18,Shoes,296.99,8,Flipbug,Lalupon,744,Premium,2025,5
+153,86,2025-04-19,Games,152.21,47,Shuffletag,Qufu,675,Premium,2025,4
+154,125,2024-08-24,Industrial,322.78,64,Omba,Yartsevo,736,Estandar,2024,8
+155,22,2025-01-20,Movies,193.94,65,Divape,Ya’ergenchu,861,Premium,2025,1
+156,71,2024-08-30,Baby,495.91,3,Pixonyx,Nîmes,708,Estandar,2024,8
+157,123,2025-01-09,Tools,256.56,95,Edgeblab,Metz,819,Premium,2025,1
+158,75,2025-04-28,Movies,125.41,23,Realfire,Surkh Bilandī,816,Premium,2025,4
+159,141,2024-12-05,Computers,315.07,80,Oyondu,Daitou,151,Estandar,2024,12
+160,172,2025-06-17,Games,136.94,54,Kimia,Brzeźnica,387,Estandar,2025,6
+161,143,2025-02-12,Electronics,176.25,33,Eadel,Kawangohari,567,Premium,2025,2
+162,116,2024-07-03,Industrial,400.12,86,Ailane,Nema,512,Estandar,2024,7
+163,4,2025-04-14,Movies,42.12,32,Jabberbean,Tongjing,859,Estandar,2025,4
+164,147,2024-10-09,Movies,86.98,55,Divavu,Kutamandarakan,186,Estandar,2024,10
+165,96,2025-05-20,Outdoors,107.77,11,Einti,Lukhovka,453,Premium,2025,5
+166,106,2024-10-28,Jewelry,298.47,5,Zoombox,Cipinang,843,Estandar,2024,10
+167,161,2025-01-22,Automotive,252.38,31,Latz,Baiyang,894,Premium,2025,1
+168,61,2025-01-28,Shoes,412.33,8,Avamm,Bweyogerere,497,Premium,2025,1
+169,186,2025-04-28,Grocery,484.4,22,Yakidoo,Santa Maria,922,Estandar,2025,4
+170,56,2024-10-06,Sports,15.45,31,Realcube,Candelária,547,Estandar,2024,10
+171,73,2024-10-19,Sports,412.29,27,Devify,Uppsala,206,Estandar,2024,10
+172,161,2024-11-10,Movies,383.65,75,Latz,Baiyang,894,Premium,2024,11
+173,76,2024-11-07,Tools,67.39,74,Voomm,Svyatogorsk,400,Estandar,2024,11
+174,73,2024-07-27,Outdoors,268.9,60,Devify,Uppsala,206,Estandar,2024,7
+175,93,2025-01-19,Tools,321.02,77,Trilia,Bharatpur,286,Estandar,2025,1
+176,124,2025-06-07,Shoes,226.73,34,Dabfeed,Fanhu,280,Premium,2025,6
+177,99,2025-02-09,Clothing,91.39,94,Youopia,Mossendjo,523,Premium,2025,2
+178,93,2025-01-27,Kids,253.75,72,Trilia,Bharatpur,286,Estandar,2025,1
+179,1,2024-09-21,Books,216.87,19,Realbridge,Isanlu Itedoijowa,582,Premium,2024,9
+180,182,2024-08-26,Shoes,382.44,25,Zooveo,Żyrardów,389,Estandar,2024,8
+181,184,2024-08-09,Kids,34.49,44,Browseblab,Srokowo,580,Premium,2024,8
+182,117,2024-09-26,Industrial,462.84,46,Mydeo,Bandaragung,696,Estandar,2024,9
+183,136,2024-08-19,Jewelry,160.71,54,Tagopia,Matoupu,285,Estandar,2024,8
+184,138,2025-03-23,Sports,308.79,23,Kwilith,Belén,317,Premium,2025,3
+185,122,2024-08-21,Books,82.83,55,Layo,Krajan,728,Estandar,2024,8
+186,50,2024-10-30,Jewelry,214.79,31,Flipbug,Lalupon,744,Premium,2024,10
+187,94,2024-11-01,Clothing,312.83,38,Kwilith,Huaqiao,737,Premium,2024,11
+188,168,2024-08-05,Shoes,358.35,80,Blognation,San Pedro Pinula,125,Estandar,2024,8
+189,52,2025-01-26,Computers,415.92,17,Topicblab,Belo Jardim,743,Estandar,2025,1
+190,43,2024-08-24,Tools,303.99,57,Aimbo,Sobontoro,649,Estandar,2024,8
+191,7,2025-05-28,Toys,182.91,88,Realblab,Trondheim,381,Estandar,2025,5
+192,74,2025-02-12,Movies,98.46,10,Meedoo,Taounate,600,Premium,2025,2
+193,182,2024-06-22,Kids,453.05,99,Zooveo,Żyrardów,389,Estandar,2024,6
+194,195,2024-12-07,Electronics,118.06,66,Photobean,Alvand,956,Premium,2024,12
+195,15,2025-05-12,Grocery,118.83,68,Skyvu,Clonskeagh,531,Premium,2025,5
+196,81,2024-07-19,Electronics,39.05,37,Skynoodle,Bom Jesus do Itabapoana,995,Premium,2024,7
+197,80,2025-05-11,Industrial,428.61,64,Centizu,Nangang,248,Premium,2025,5
+198,88,2024-12-30,Books,20.09,23,Edgeblab,Polyarnyy,979,Premium,2024,12
+199,149,2024-11-26,Books,27.66,88,Ainyx,Khanabad,274,Premium,2024,11
+200,35,2024-12-26,Games,435.61,32,Babblestorm,La Azulita,491,Premium,2024,12
+201,43,2025-04-22,Tools,175.19,80,Aimbo,Sobontoro,649,Estandar,2025,4
+202,184,2025-01-11,Music,10.03,86,Browseblab,Srokowo,580,Premium,2025,1
+203,162,2024-11-27,Books,218.02,49,Yata,Yingpu,686,Estandar,2024,11
+204,18,2024-10-20,Baby,345.61,97,Vinder,Berendeyevo,375,Estandar,2024,10
+205,118,2024-08-15,Automotive,494.74,41,Tagchat,El Gouna,379,Premium,2024,8
+206,158,2024-11-22,Movies,447.21,41,Trupe,El Soberbio,419,Estandar,2024,11
+207,47,2024-12-23,Sports,219.56,93,Aivee,Bāglung,476,Premium,2024,12
+208,195,2024-09-28,Kids,232.55,5,Photobean,Alvand,956,Premium,2024,9
+209,107,2024-09-29,Music,225.93,58,Wikizz,Kintinku,795,Estandar,2024,9
+210,100,2025-06-18,Outdoors,54.01,3,Twimm,Seres,945,Estandar,2025,6
+211,58,2024-08-13,Kids,186.81,45,Mudo,Itapecerica,198,Premium,2024,8
+212,197,2025-01-19,Beauty,75.18,77,Jaloo,Fengyuan,869,Premium,2025,1
+213,152,2024-08-17,Books,97.62,57,Skimia,Khursā,694,Estandar,2024,8
+214,162,2025-04-06,Computers,308.99,1,Yata,Yingpu,686,Estandar,2025,4
+215,119,2024-07-15,Movies,118.07,6,Aivee,Köyliö,779,Estandar,2024,7
+216,10,2025-02-20,Movies,61.24,10,Eamia,Mingshan,988,Estandar,2025,2
+217,28,2024-08-09,Beauty,416.28,51,Kanoodle,Ziębice,167,Premium,2024,8
+218,39,2024-09-25,Automotive,49.07,19,Meedoo,Kasaoka,641,Estandar,2024,9
+219,40,2024-12-22,Home,188.67,67,Jaxspan,Tournon-sur-Rhône,848,Estandar,2024,12
+220,58,2025-03-02,Sports,261.94,7,Mudo,Itapecerica,198,Premium,2025,3
+221,198,2024-11-12,Movies,294.05,49,Camimbo,Al ‘Azīzīyah,447,Estandar,2024,11
+222,141,2024-09-14,Toys,460.29,45,Oyondu,Daitou,151,Estandar,2024,9
+223,192,2024-07-19,Jewelry,187.18,78,Tagtune,Boavista,805,Estandar,2024,7
+224,138,2024-11-29,Health,88.43,44,Kwilith,Belén,317,Premium,2024,11
+225,9,2024-09-23,Electronics,14.38,98,Jayo,Wahai,299,Premium,2024,9
+226,98,2024-09-12,Grocery,71.54,51,Tagchat,Bang Racham,847,Estandar,2024,9
+227,151,2024-10-23,Kids,152.49,74,JumpXS,Nianba,839,Premium,2024,10
+228,44,2025-05-09,Grocery,40.21,44,Roombo,Ritaebang,735,Estandar,2025,5
+229,53,2025-03-26,Shoes,10.41,91,Izio,Nantes,202,Estandar,2025,3
+230,58,2025-05-05,Tools,90.64,40,Mudo,Itapecerica,198,Premium,2025,5
+231,138,2025-06-04,Home,137.5,22,Kwilith,Belén,317,Premium,2025,6
+232,86,2024-09-26,Garden,249.72,46,Shuffletag,Qufu,675,Premium,2024,9
+233,132,2024-07-28,Industrial,425.17,3,Rhyloo,Lorengau,378,Premium,2024,7
+234,99,2024-12-08,Garden,125.69,41,Youopia,Mossendjo,523,Premium,2024,12
+235,130,2024-09-17,Industrial,474.53,7,Kayveo,Hyattsville,119,Premium,2024,9
+236,1,2025-03-12,Industrial,286.63,83,Realbridge,Isanlu Itedoijowa,582,Premium,2025,3
+237,17,2024-11-10,Kids,362.23,26,Kaymbo,Sibiti,312,Premium,2024,11
+238,44,2025-04-12,Music,215.4,88,Roombo,Ritaebang,735,Estandar,2025,4
+239,9,2025-02-27,Toys,308.36,33,Jayo,Wahai,299,Premium,2025,2
+240,15,2025-06-08,Automotive,367.08,15,Skyvu,Clonskeagh,531,Premium,2025,6
+241,92,2025-03-11,Kids,51.16,52,Dabfeed,Khudāydād Khēl,731,Estandar,2025,3
+242,21,2024-09-21,Books,113.28,45,Aivee,Eg,119,Estandar,2024,9
+243,41,2024-12-16,Grocery,235.28,96,Kanoodle,San Luis,515,Premium,2024,12
+244,58,2024-07-22,Baby,135.22,19,Mudo,Itapecerica,198,Premium,2024,7
+245,20,2024-09-05,Jewelry,459.99,41,Meedoo,Fianarantsoa,678,Premium,2024,9
+246,38,2025-01-28,Health,433.95,34,Vinte,That Phanom,944,Estandar,2025,1
+247,111,2024-10-09,Electronics,168.6,60,Riffpedia,Delray Beach,326,Premium,2024,10
+248,72,2024-11-20,Home,122.24,94,Photobug,Dubrovka,415,Estandar,2024,11
+249,113,2025-01-28,Electronics,203.81,36,Teklist,Kademangan,527,Premium,2025,1
+250,33,2024-07-10,Grocery,266.12,16,Rooxo,Donnacona,769,Estandar,2024,7
+251,190,2025-03-07,Clothing,228.89,60,Thoughtsphere,Żarki-Letnisko,524,Estandar,2025,3
+252,40,2024-07-21,Grocery,449.85,31,Jaxspan,Tournon-sur-Rhône,848,Estandar,2024,7
+253,92,2024-08-01,Electronics,13.31,63,Dabfeed,Khudāydād Khēl,731,Estandar,2024,8
+254,43,2025-01-27,Outdoors,123.88,91,Aimbo,Sobontoro,649,Estandar,2025,1
+255,155,2024-08-02,Jewelry,203.5,49,Roomm,Kanlagay,884,Premium,2024,8
+256,146,2025-01-30,Computers,233.66,17,Youfeed,Claremont,965,Estandar,2025,1
+257,176,2025-04-11,Toys,168.93,96,Twimbo,Bangad,544,Premium,2025,4
+258,100,2024-11-15,Computers,467.15,58,Twimm,Seres,945,Estandar,2024,11
+259,49,2024-06-25,Health,445.02,61,Skidoo,Khuzhir,776,Estandar,2024,6
+260,177,2025-05-25,Games,337.14,10,Eare,Övertorneå,957,Premium,2025,5
+261,79,2024-07-23,Toys,210.04,58,Kanoodle,Bandera,546,Premium,2024,7
+262,97,2024-12-30,Clothing,451.83,46,Skajo,Botlhapatlou,762,Premium,2024,12
+263,106,2025-04-16,Tools,116.13,36,Zoombox,Cipinang,843,Estandar,2025,4
+264,115,2025-03-18,Health,287.25,53,Ntag,Côte-Saint-Luc,507,Premium,2025,3
+265,79,2025-01-02,Kids,313.11,61,Kanoodle,Bandera,546,Premium,2025,1
+266,174,2024-12-08,Kids,406.11,14,Jaxspan,Kallithéa,713,Premium,2024,12
+267,190,2025-05-09,Shoes,184.39,66,Thoughtsphere,Żarki-Letnisko,524,Estandar,2025,5
+268,12,2024-11-01,Home,157.88,73,Jaxnation,Krasnoshchekovo,258,Estandar,2024,11
+269,79,2024-09-30,Games,303.06,51,Kanoodle,Bandera,546,Premium,2024,9
+270,155,2024-09-01,Beauty,421.25,71,Roomm,Kanlagay,884,Premium,2024,9
+271,7,2024-10-14,Garden,144.1,27,Realblab,Trondheim,381,Estandar,2024,10
+272,119,2024-08-29,Baby,148.36,97,Aivee,Köyliö,779,Estandar,2024,8
+273,6,2024-07-08,Music,285.65,91,Jabbersphere,Jianfeng,164,Premium,2024,7
+274,60,2024-08-03,Automotive,275.18,79,Realcube,Thị Trấn Thất Khê,164,Estandar,2024,8
+275,140,2025-06-05,Movies,321.01,53,Twitterbeat,Zhaike,676,Estandar,2025,6
+276,83,2025-02-19,Computers,473.42,21,Cogidoo,Kafir Yasif,649,Premium,2025,2
+277,85,2024-09-01,Tools,394.92,4,Fatz,Mangdang,925,Premium,2024,9
+278,95,2024-10-28,Garden,472.35,69,Feedfire,Soufrière,320,Estandar,2024,10
+279,93,2024-11-27,Tools,197.78,25,Trilia,Bharatpur,286,Estandar,2024,11
+280,166,2024-06-29,Kids,364.16,16,Rhybox,Maskinongé,866,Premium,2024,6
+281,27,2024-07-19,Industrial,299.7,25,Pixonyx,Luodian,214,Estandar,2024,7
+282,120,2025-05-06,Baby,274.04,6,Shuffletag,Cambanay,526,Estandar,2025,5
+283,106,2025-03-20,Music,127.54,10,Zoombox,Cipinang,843,Estandar,2025,3
+284,124,2025-04-17,Kids,360.29,20,Dabfeed,Fanhu,280,Premium,2025,4
+285,76,2025-03-10,Kids,489.96,65,Voomm,Svyatogorsk,400,Estandar,2025,3
+286,11,2024-08-01,Books,139.96,30,Tavu,Burns Lake,122,Premium,2024,8
+287,98,2024-07-10,Clothing,351.21,23,Tagchat,Bang Racham,847,Estandar,2024,7
+288,96,2024-09-12,Garden,281.33,69,Einti,Lukhovka,453,Premium,2024,9
+289,128,2025-05-12,Shoes,208.47,89,Feednation,Cantaura,684,Estandar,2025,5
+290,13,2025-05-03,Jewelry,248.03,51,Mydo,Zhanghekou,392,Premium,2025,5
+291,105,2024-08-26,Movies,403.81,17,Eadel,Spitak,141,Premium,2024,8
+292,123,2025-06-02,Books,490.61,2,Edgeblab,Metz,819,Premium,2025,6
+293,188,2024-10-28,Beauty,407.18,70,Jaxnation,Vigo,946,Premium,2024,10
+294,199,2025-01-06,Movies,282.57,54,Npath,Pesagen,305,Estandar,2025,1
+295,101,2024-08-22,Sports,340.34,25,BlogXS,Floriana,296,Premium,2024,8
+296,25,2024-11-29,Tools,476.31,10,Jaxworks,Watthana Nakhon,714,Premium,2024,11
+297,118,2024-11-06,Computers,51.09,50,Tagchat,El Gouna,379,Premium,2024,11
+298,114,2025-05-18,Tools,243.82,63,Eidel,Bayan-Ovoo,241,Estandar,2025,5
+299,117,2024-09-08,Clothing,434.9,87,Mydeo,Bandaragung,696,Estandar,2024,9
+300,27,2024-06-28,Health,315.18,40,Pixonyx,Luodian,214,Estandar,2024,6
+301,37,2024-08-04,Movies,215.04,45,Twitterworks,Todorovo,122,Premium,2024,8
+302,185,2024-09-22,Shoes,374.77,22,Eire,Atikokan,177,Estandar,2024,9
+303,40,2025-01-17,Grocery,438.84,37,Jaxspan,Tournon-sur-Rhône,848,Estandar,2025,1
+304,122,2025-01-12,Beauty,475.09,50,Layo,Krajan,728,Estandar,2025,1
+305,184,2024-06-30,Beauty,110.43,78,Browseblab,Srokowo,580,Premium,2024,6
+306,179,2025-04-25,Books,467.03,18,Topicstorm,Abakaliki,238,Premium,2025,4
+307,118,2024-12-21,Computers,406.78,44,Tagchat,El Gouna,379,Premium,2024,12
+308,200,2025-02-26,Industrial,415.27,20,Voonix,Prilep,235,Premium,2025,2
+309,143,2025-04-12,Home,490.42,40,Eadel,Kawangohari,567,Premium,2025,4
+310,134,2025-05-08,Music,114.13,75,Rhybox,Zonghan,482,Premium,2025,5
+311,41,2024-12-28,Toys,258.38,23,Kanoodle,San Luis,515,Premium,2024,12
+312,176,2024-09-14,Toys,63.41,6,Twimbo,Bangad,544,Premium,2024,9
+313,5,2025-01-19,Outdoors,10.97,50,Livetube,Āsmār,807,Estandar,2025,1
+314,200,2024-09-08,Kids,485.51,18,Voonix,Prilep,235,Premium,2024,9
+315,172,2025-05-30,Computers,154.53,59,Kimia,Brzeźnica,387,Estandar,2025,5
+316,124,2024-08-10,Movies,247.5,34,Dabfeed,Fanhu,280,Premium,2024,8
+317,114,2024-11-25,Kids,400.61,54,Eidel,Bayan-Ovoo,241,Estandar,2024,11
+318,5,2024-08-30,Sports,336.2,92,Livetube,Āsmār,807,Estandar,2024,8
+319,140,2024-09-06,Kids,425.4,48,Twitterbeat,Zhaike,676,Estandar,2024,9
+320,173,2025-01-27,Games,421.64,32,Vidoo,Liwu,984,Estandar,2025,1
+321,70,2024-09-08,Toys,265.31,53,Tazz,Tomaszów Lubelski,208,Estandar,2024,9
+322,9,2025-03-15,Health,218.95,49,Jayo,Wahai,299,Premium,2025,3
+323,23,2025-06-02,Movies,107.3,66,Meevee,Ashgabat,653,Estandar,2025,6
+324,101,2025-02-05,Shoes,200.0,99,BlogXS,Floriana,296,Premium,2025,2
+325,14,2024-09-15,Movies,130.41,13,Flashdog,Florida,641,Estandar,2024,9
+326,43,2025-02-15,Kids,43.79,39,Aimbo,Sobontoro,649,Estandar,2025,2
+327,37,2025-06-11,Industrial,46.66,63,Twitterworks,Todorovo,122,Premium,2025,6
+328,148,2025-02-05,Games,358.95,38,Yoveo,Shisandaogou,473,Estandar,2025,2
+329,180,2025-06-06,Computers,455.06,39,Bubblemix,Pasarkuok,959,Estandar,2025,6
+330,29,2024-09-25,Kids,102.11,23,InnoZ,Los Nogales,574,Premium,2024,9
+331,129,2024-11-15,Outdoors,134.06,38,Latz,Santa Rita,108,Estandar,2024,11
+332,27,2024-06-21,Music,390.16,62,Pixonyx,Luodian,214,Estandar,2024,6
+333,109,2025-03-25,Electronics,433.65,89,Skinte,Xiwei,273,Premium,2025,3
+334,194,2025-01-22,Clothing,254.57,38,Flipbug,Jiangjiazui,210,Estandar,2025,1
+335,130,2025-03-04,Industrial,464.44,22,Kayveo,Hyattsville,119,Premium,2025,3
+336,42,2024-07-22,Grocery,340.4,68,Mydo,Samborondón,795,Premium,2024,7
+337,156,2024-08-12,Outdoors,91.27,59,Edgepulse,Xinhui,573,Premium,2024,8
+338,198,2024-09-13,Grocery,158.47,85,Camimbo,Al ‘Azīzīyah,447,Estandar,2024,9
+339,117,2024-08-10,Music,60.09,75,Mydeo,Bandaragung,696,Estandar,2024,8
+340,110,2024-09-19,Electronics,379.15,87,Photofeed,Odintsovo,426,Estandar,2024,9
+341,4,2024-08-23,Outdoors,23.13,93,Jabberbean,Tongjing,859,Estandar,2024,8
+342,10,2024-08-29,Clothing,142.16,21,Eamia,Mingshan,988,Estandar,2024,8
+343,11,2024-08-08,Beauty,280.82,45,Tavu,Burns Lake,122,Premium,2024,8
+344,50,2024-11-02,Books,121.12,42,Flipbug,Lalupon,744,Premium,2024,11
+345,18,2025-05-18,Industrial,52.18,92,Vinder,Berendeyevo,375,Estandar,2025,5
+346,100,2025-03-19,Jewelry,461.62,22,Twimm,Seres,945,Estandar,2025,3
+347,5,2025-02-12,Kids,427.31,41,Livetube,Āsmār,807,Estandar,2025,2
+348,50,2024-09-01,Jewelry,166.89,8,Flipbug,Lalupon,744,Premium,2024,9
+349,43,2025-06-14,Garden,87.97,43,Aimbo,Sobontoro,649,Estandar,2025,6
+350,121,2025-04-16,Tools,231.28,95,Rhyzio,Carpiquet,362,Estandar,2025,4
+351,10,2024-08-14,Garden,400.22,18,Eamia,Mingshan,988,Estandar,2024,8
+352,55,2024-08-16,Electronics,107.56,1,Fivechat,Candelaria,321,Estandar,2024,8
+353,157,2024-08-25,Books,123.16,17,Brainverse,Changxing,577,Premium,2024,8
+354,176,2025-03-26,Music,23.07,33,Twimbo,Bangad,544,Premium,2025,3
+355,57,2024-11-18,Beauty,253.92,53,Youbridge,Oklahoma City,731,Estandar,2024,11
+356,106,2024-11-05,Industrial,72.66,29,Zoombox,Cipinang,843,Estandar,2024,11
+357,82,2024-09-05,Games,452.93,59,Kwideo,Aygeshat,586,Premium,2024,9
+358,172,2024-12-31,Toys,136.84,21,Kimia,Brzeźnica,387,Estandar,2024,12
+359,60,2025-02-12,Sports,128.06,4,Realcube,Thị Trấn Thất Khê,164,Estandar,2025,2
+360,39,2025-02-03,Industrial,235.88,68,Meedoo,Kasaoka,641,Estandar,2025,2
+361,182,2024-11-23,Tools,449.46,84,Zooveo,Żyrardów,389,Estandar,2024,11
+362,59,2025-02-06,Movies,382.85,49,Vimbo,Vrbas,824,Estandar,2025,2
+363,29,2024-09-14,Beauty,405.81,87,InnoZ,Los Nogales,574,Premium,2024,9
+364,85,2024-11-29,Grocery,368.45,92,Fatz,Mangdang,925,Premium,2024,11
+365,136,2025-01-31,Automotive,286.47,38,Tagopia,Matoupu,285,Estandar,2025,1
+366,22,2025-04-18,Sports,447.78,31,Divape,Ya’ergenchu,861,Premium,2025,4
+367,4,2024-09-18,Automotive,455.06,28,Jabberbean,Tongjing,859,Estandar,2024,9
+368,105,2025-03-23,Computers,168.16,99,Eadel,Spitak,141,Premium,2025,3
+369,75,2025-01-16,Health,28.24,5,Realfire,Surkh Bilandī,816,Premium,2025,1
+370,91,2024-08-07,Toys,104.3,92,Feednation,Shuiji,577,Estandar,2024,8
+371,191,2024-08-08,Jewelry,204.87,19,Camimbo,Kpalimé,468,Premium,2024,8
+372,117,2025-03-28,Electronics,167.93,78,Mydeo,Bandaragung,696,Estandar,2025,3
+373,157,2024-08-11,Music,376.11,36,Brainverse,Changxing,577,Premium,2024,8
+374,73,2025-04-14,Garden,110.98,15,Devify,Uppsala,206,Estandar,2025,4
+375,179,2025-03-19,Automotive,297.84,45,Topicstorm,Abakaliki,238,Premium,2025,3
+376,160,2024-09-07,Toys,414.46,98,Jabbersphere,Saarbrücken,866,Estandar,2024,9
+377,139,2024-07-29,Garden,111.87,19,Centimia,Datar,221,Estandar,2024,7
+378,182,2024-09-06,Games,121.4,66,Zooveo,Żyrardów,389,Estandar,2024,9
+379,183,2025-02-17,Sports,398.18,47,Leexo,San Antonio Oeste,490,Premium,2025,2
+380,14,2024-09-05,Movies,129.51,32,Flashdog,Florida,641,Estandar,2024,9
+381,192,2024-09-02,Toys,386.8,80,Tagtune,Boavista,805,Estandar,2024,9
+382,139,2024-11-11,Clothing,413.71,75,Centimia,Datar,221,Estandar,2024,11
+383,65,2024-09-21,Health,291.6,76,Skipstorm,San Jacinto,843,Estandar,2024,9
+384,75,2025-05-23,Shoes,33.11,56,Realfire,Surkh Bilandī,816,Premium,2025,5
+385,53,2024-07-02,Games,352.78,20,Izio,Nantes,202,Estandar,2024,7
+386,79,2024-07-10,Movies,168.75,72,Kanoodle,Bandera,546,Premium,2024,7
+387,76,2024-10-10,Movies,24.71,46,Voomm,Svyatogorsk,400,Estandar,2024,10
+388,36,2024-10-27,Outdoors,111.82,97,Yoveo,Chóra,110,Premium,2024,10
+389,181,2025-02-17,Tools,294.95,12,Riffpath,Anchorage,703,Premium,2025,2
+390,11,2025-01-12,Beauty,143.38,22,Tavu,Burns Lake,122,Premium,2025,1
+391,151,2024-11-09,Baby,441.97,46,JumpXS,Nianba,839,Premium,2024,11
+392,143,2025-01-13,Baby,263.09,63,Eadel,Kawangohari,567,Premium,2025,1
+393,91,2024-08-31,Beauty,23.09,10,Feednation,Shuiji,577,Estandar,2024,8
+394,29,2025-04-08,Home,101.14,76,InnoZ,Los Nogales,574,Premium,2025,4
+395,62,2025-05-09,Baby,85.0,63,Yodoo,Lapu-Lapu City,614,Estandar,2025,5
+396,68,2025-02-04,Movies,158.72,15,Skalith,Fatufaun,379,Premium,2025,2
+397,72,2024-07-22,Shoes,357.87,12,Photobug,Dubrovka,415,Estandar,2024,7
+398,25,2024-08-23,Jewelry,333.17,40,Jaxworks,Watthana Nakhon,714,Premium,2024,8
+399,72,2024-10-06,Games,353.74,22,Photobug,Dubrovka,415,Estandar,2024,10
+400,157,2025-06-05,Outdoors,375.66,12,Brainverse,Changxing,577,Premium,2025,6
+401,178,2025-03-07,Home,150.48,83,Yabox,Igbor,827,Premium,2025,3
+402,180,2024-08-22,Movies,35.4,1,Bubblemix,Pasarkuok,959,Estandar,2024,8
+403,187,2025-05-08,Sports,271.31,71,Wikizz,Būlaevo,942,Estandar,2025,5
+404,67,2024-08-09,Clothing,11.05,2,Flashdog,Wulongshan,838,Estandar,2024,8
+405,108,2024-06-23,Computers,393.03,1,Rhyzio,Shangde,577,Premium,2024,6
+406,62,2025-01-08,Automotive,368.04,31,Yodoo,Lapu-Lapu City,614,Estandar,2025,1
+407,139,2024-11-11,Toys,146.32,74,Centimia,Datar,221,Estandar,2024,11
+408,172,2025-03-06,Movies,117.91,48,Kimia,Brzeźnica,387,Estandar,2025,3
+409,53,2025-02-22,Movies,21.76,26,Izio,Nantes,202,Estandar,2025,2
+410,110,2024-11-11,Home,408.94,4,Photofeed,Odintsovo,426,Estandar,2024,11
+411,12,2024-08-15,Home,357.21,71,Jaxnation,Krasnoshchekovo,258,Estandar,2024,8
+412,116,2024-09-24,Garden,463.42,82,Ailane,Nema,512,Estandar,2024,9
+413,61,2025-02-07,Home,479.89,4,Avamm,Bweyogerere,497,Premium,2025,2
+414,51,2024-12-02,Toys,220.04,28,Camido,Leiria,592,Premium,2024,12
+415,67,2024-10-26,Outdoors,134.56,100,Flashdog,Wulongshan,838,Estandar,2024,10
+416,162,2024-08-01,Computers,331.34,57,Yata,Yingpu,686,Estandar,2024,8
+417,109,2025-05-02,Garden,173.73,32,Skinte,Xiwei,273,Premium,2025,5
+418,45,2024-12-28,Beauty,39.6,88,Dabfeed,Dougou,641,Estandar,2024,12
+419,174,2025-05-27,Garden,235.17,51,Jaxspan,Kallithéa,713,Premium,2025,5
+420,146,2024-08-13,Electronics,295.67,46,Youfeed,Claremont,965,Estandar,2024,8
+421,84,2025-03-18,Shoes,453.85,90,Tagchat,Bakuriani,158,Premium,2025,3
+422,81,2025-03-11,Movies,177.08,72,Skynoodle,Bom Jesus do Itabapoana,995,Premium,2025,3
+423,174,2025-04-13,Books,295.06,59,Jaxspan,Kallithéa,713,Premium,2025,4
+424,95,2024-07-21,Electronics,21.44,82,Feedfire,Soufrière,320,Estandar,2024,7
+425,74,2024-08-21,Garden,181.3,90,Meedoo,Taounate,600,Premium,2024,8
+426,184,2024-07-25,Games,192.16,95,Browseblab,Srokowo,580,Premium,2024,7
+427,59,2025-05-26,Books,192.11,19,Vimbo,Vrbas,824,Estandar,2025,5
+428,115,2025-04-01,Baby,251.66,35,Ntag,Côte-Saint-Luc,507,Premium,2025,4
+429,169,2024-10-22,Automotive,321.45,30,Yakitri,Aborlan,606,Estandar,2024,10
+430,13,2025-01-25,Jewelry,292.51,98,Mydo,Zhanghekou,392,Premium,2025,1
+431,145,2024-12-13,Shoes,483.13,38,Fliptune,Modosinal,526,Premium,2024,12
+432,83,2025-02-10,Home,488.16,19,Cogidoo,Kafir Yasif,649,Premium,2025,2
+433,166,2024-09-02,Movies,25.81,7,Rhybox,Maskinongé,866,Premium,2024,9
+434,183,2025-01-13,Jewelry,242.73,49,Leexo,San Antonio Oeste,490,Premium,2025,1
+435,77,2024-07-30,Music,194.01,70,Yabox,La Habana Vieja,924,Estandar,2024,7
+436,103,2024-12-26,Health,194.67,100,Twitterbridge,Punat,623,Premium,2024,12
+437,34,2025-01-13,Garden,134.25,96,Eazzy,Mislīyah,723,Premium,2025,1
+438,180,2024-06-26,Toys,481.43,35,Bubblemix,Pasarkuok,959,Estandar,2024,6
+439,76,2024-12-12,Outdoors,306.29,20,Voomm,Svyatogorsk,400,Estandar,2024,12
+440,153,2024-12-23,Books,386.6,6,Fadeo,Stockholm,713,Estandar,2024,12
+441,151,2025-05-20,Clothing,425.91,94,JumpXS,Nianba,839,Premium,2025,5
+442,61,2025-02-06,Movies,177.37,91,Avamm,Bweyogerere,497,Premium,2025,2
+443,59,2024-08-22,Grocery,294.83,25,Vimbo,Vrbas,824,Estandar,2024,8
+444,152,2025-04-16,Clothing,35.71,80,Skimia,Khursā,694,Estandar,2025,4
+445,93,2024-12-09,Health,342.11,72,Trilia,Bharatpur,286,Estandar,2024,12
+446,150,2025-02-17,Home,440.8,83,Npath,Głogów Małopolski,963,Premium,2025,2
+447,199,2024-06-22,Home,398.4,10,Npath,Pesagen,305,Estandar,2024,6
+448,116,2025-06-03,Clothing,429.3,34,Ailane,Nema,512,Estandar,2025,6
+449,192,2025-01-08,Grocery,153.04,88,Tagtune,Boavista,805,Estandar,2025,1
+450,87,2024-09-03,Toys,334.69,96,Skaboo,Mayskiy,803,Estandar,2024,9
+451,59,2024-11-13,Kids,170.66,57,Vimbo,Vrbas,824,Estandar,2024,11
+452,60,2024-08-01,Health,351.04,45,Realcube,Thị Trấn Thất Khê,164,Estandar,2024,8
+453,136,2025-01-26,Tools,228.41,21,Tagopia,Matoupu,285,Estandar,2025,1
+454,131,2025-02-26,Music,130.42,30,Miboo,Galán,526,Premium,2025,2
+455,174,2024-08-07,Sports,217.79,68,Jaxspan,Kallithéa,713,Premium,2024,8
+456,93,2024-11-29,Grocery,417.09,32,Trilia,Bharatpur,286,Estandar,2024,11
+457,40,2024-10-06,Books,261.26,2,Jaxspan,Tournon-sur-Rhône,848,Estandar,2024,10
+458,159,2025-05-27,Computers,274.33,61,Twitterbeat,"Palmas De Gran Canaria, Las",494,Estandar,2025,5
+459,158,2024-07-19,Sports,98.78,60,Trupe,El Soberbio,419,Estandar,2024,7
+460,56,2024-07-22,Music,391.96,9,Realcube,Candelária,547,Estandar,2024,7
+461,82,2024-11-04,Sports,363.12,69,Kwideo,Aygeshat,586,Premium,2024,11
+462,198,2024-11-23,Industrial,102.43,33,Camimbo,Al ‘Azīzīyah,447,Estandar,2024,11
+463,17,2024-08-27,Sports,135.58,49,Kaymbo,Sibiti,312,Premium,2024,8
+464,66,2024-12-04,Clothing,480.27,99,Mydo,Detroit,942,Estandar,2024,12
+465,118,2025-02-11,Industrial,294.41,87,Tagchat,El Gouna,379,Premium,2025,2
+466,1,2025-01-11,Baby,393.54,21,Realbridge,Isanlu Itedoijowa,582,Premium,2025,1
+467,135,2024-08-22,Outdoors,157.66,7,Skivee,Vale Maceiras,335,Estandar,2024,8
+468,112,2025-03-26,Electronics,470.9,65,Jaloo,Aromashevo,948,Estandar,2025,3
+469,171,2024-10-18,Kids,219.22,50,Quatz,Belyayevka,243,Premium,2024,10
+470,179,2024-07-16,Tools,165.69,43,Topicstorm,Abakaliki,238,Premium,2024,7
+471,197,2025-04-05,Books,207.7,47,Jaloo,Fengyuan,869,Premium,2025,4
+472,37,2025-05-05,Beauty,55.15,42,Twitterworks,Todorovo,122,Premium,2025,5
+473,177,2024-09-13,Books,286.39,74,Eare,Övertorneå,957,Premium,2024,9
+474,200,2024-06-22,Kids,477.02,5,Voonix,Prilep,235,Premium,2024,6
+475,142,2025-04-21,Baby,439.77,33,Linkbuzz,Valparaíso,203,Estandar,2025,4
+476,21,2024-09-01,Kids,199.27,26,Aivee,Eg,119,Estandar,2024,9
+477,8,2025-05-22,Kids,74.22,79,Jetwire,Marilao,764,Premium,2025,5
+478,144,2024-09-29,Garden,46.81,36,Vitz,Jinshan,711,Premium,2024,9
+479,33,2024-06-25,Computers,252.67,73,Rooxo,Donnacona,769,Estandar,2024,6
+480,75,2025-01-09,Toys,129.57,30,Realfire,Surkh Bilandī,816,Premium,2025,1
+481,80,2025-04-07,Shoes,344.38,86,Centizu,Nangang,248,Premium,2025,4
+482,32,2024-10-26,Grocery,314.27,3,Zoomzone,Nanjie,894,Estandar,2024,10
+483,131,2024-08-11,Electronics,415.13,85,Miboo,Galán,526,Premium,2024,8
+484,142,2025-03-03,Baby,109.55,84,Linkbuzz,Valparaíso,203,Estandar,2025,3
+485,47,2025-05-15,Tools,292.1,58,Aivee,Bāglung,476,Premium,2025,5
+486,129,2025-02-26,Beauty,326.34,85,Latz,Santa Rita,108,Estandar,2025,2
+487,130,2025-03-07,Jewelry,184.75,75,Kayveo,Hyattsville,119,Premium,2025,3
+488,40,2024-11-03,Shoes,86.65,18,Jaxspan,Tournon-sur-Rhône,848,Estandar,2024,11
+489,181,2025-01-30,Industrial,423.04,66,Riffpath,Anchorage,703,Premium,2025,1
+490,77,2024-12-19,Computers,203.83,60,Yabox,La Habana Vieja,924,Estandar,2024,12
+491,7,2025-04-24,Clothing,159.81,59,Realblab,Trondheim,381,Estandar,2025,4
+492,130,2025-05-29,Home,330.85,81,Kayveo,Hyattsville,119,Premium,2025,5
+493,189,2024-10-07,Grocery,117.26,26,Dabjam,Cibolang,878,Premium,2024,10
+494,58,2024-12-10,Automotive,225.26,68,Mudo,Itapecerica,198,Premium,2024,12
+495,1,2025-01-12,Computers,305.56,20,Realbridge,Isanlu Itedoijowa,582,Premium,2025,1
+496,131,2025-01-21,Shoes,491.24,86,Miboo,Galán,526,Premium,2025,1
+497,25,2024-07-06,Kids,40.31,94,Jaxworks,Watthana Nakhon,714,Premium,2024,7
+498,25,2024-08-09,Garden,324.64,30,Jaxworks,Watthana Nakhon,714,Premium,2024,8
+499,5,2024-07-21,Automotive,51.98,53,Livetube,Āsmār,807,Estandar,2024,7
+500,188,2024-08-28,Beauty,124.88,61,Jaxnation,Vigo,946,Premium,2024,8
+501,93,2025-05-22,Sports,327.62,43,Trilia,Bharatpur,286,Estandar,2025,5
+502,87,2025-05-01,Jewelry,222.3,75,Skaboo,Mayskiy,803,Estandar,2025,5
+503,180,2025-02-07,Home,415.81,90,Bubblemix,Pasarkuok,959,Estandar,2025,2
+504,76,2024-09-24,Industrial,222.57,24,Voomm,Svyatogorsk,400,Estandar,2024,9
+505,106,2024-08-26,Kids,10.84,94,Zoombox,Cipinang,843,Estandar,2024,8
+506,138,2025-01-06,Sports,113.08,6,Kwilith,Belén,317,Premium,2025,1
+507,119,2024-10-23,Toys,277.62,85,Aivee,Köyliö,779,Estandar,2024,10
+508,109,2025-01-17,Toys,37.82,27,Skinte,Xiwei,273,Premium,2025,1
+509,31,2024-09-11,Movies,217.56,96,Cogilith,Bernal,678,Estandar,2024,9
+510,116,2024-09-14,Music,291.67,88,Ailane,Nema,512,Estandar,2024,9
+511,189,2024-11-11,Jewelry,380.43,64,Dabjam,Cibolang,878,Premium,2024,11
+512,193,2024-07-15,Computers,433.35,53,Thoughtsphere,Gråbo,330,Estandar,2024,7
+513,44,2025-01-10,Music,313.59,4,Roombo,Ritaebang,735,Estandar,2025,1
+514,166,2024-06-24,Tools,140.85,89,Rhybox,Maskinongé,866,Premium,2024,6
+515,199,2025-05-26,Sports,39.23,67,Npath,Pesagen,305,Estandar,2025,5
+516,184,2024-11-30,Automotive,19.88,15,Browseblab,Srokowo,580,Premium,2024,11
+517,191,2025-02-14,Grocery,279.61,92,Camimbo,Kpalimé,468,Premium,2025,2
+518,185,2024-12-29,Toys,247.28,40,Eire,Atikokan,177,Estandar,2024,12
+519,5,2025-01-21,Jewelry,335.22,91,Livetube,Āsmār,807,Estandar,2025,1
+520,70,2024-12-28,Baby,103.38,74,Tazz,Tomaszów Lubelski,208,Estandar,2024,12
+521,156,2024-11-07,Jewelry,487.92,74,Edgepulse,Xinhui,573,Premium,2024,11
+522,183,2024-11-12,Health,334.97,10,Leexo,San Antonio Oeste,490,Premium,2024,11
+523,53,2025-03-06,Sports,118.9,70,Izio,Nantes,202,Estandar,2025,3
+524,153,2024-09-17,Books,478.7,69,Fadeo,Stockholm,713,Estandar,2024,9
+525,105,2024-11-05,Electronics,110.28,36,Eadel,Spitak,141,Premium,2024,11
+526,102,2024-08-02,Baby,96.24,10,Meezzy,Kanganpur,730,Estandar,2024,8
+527,7,2024-06-29,Clothing,426.71,16,Realblab,Trondheim,381,Estandar,2024,6
+528,196,2024-10-23,Jewelry,459.06,21,Browsezoom,Bali,930,Premium,2024,10
+529,199,2025-02-04,Music,240.02,45,Npath,Pesagen,305,Estandar,2025,2
+530,139,2025-01-19,Games,214.94,57,Centimia,Datar,221,Estandar,2025,1
+531,99,2024-06-19,Kids,474.17,36,Youopia,Mossendjo,523,Premium,2024,6
+532,85,2024-06-20,Toys,235.62,25,Fatz,Mangdang,925,Premium,2024,6
+533,70,2024-10-26,Electronics,274.17,60,Tazz,Tomaszów Lubelski,208,Estandar,2024,10
+534,39,2025-01-17,Health,24.91,56,Meedoo,Kasaoka,641,Estandar,2025,1
+535,151,2025-01-03,Shoes,245.95,79,JumpXS,Nianba,839,Premium,2025,1
+536,63,2024-12-04,Grocery,394.71,23,Skinte,Vạn Giã,832,Premium,2024,12
+537,40,2025-01-25,Clothing,112.11,89,Jaxspan,Tournon-sur-Rhône,848,Estandar,2025,1
+538,59,2025-01-13,Beauty,320.58,17,Vimbo,Vrbas,824,Estandar,2025,1
+539,134,2025-05-11,Clothing,33.86,89,Rhybox,Zonghan,482,Premium,2025,5
+540,11,2024-09-12,Kids,225.92,22,Tavu,Burns Lake,122,Premium,2024,9
+541,86,2025-05-15,Computers,78.49,19,Shuffletag,Qufu,675,Premium,2025,5
+542,118,2024-08-21,Baby,200.49,77,Tagchat,El Gouna,379,Premium,2024,8
+543,9,2025-02-28,Automotive,462.18,54,Jayo,Wahai,299,Premium,2025,2
+544,35,2024-08-30,Home,174.57,16,Babblestorm,La Azulita,491,Premium,2024,8
+545,86,2024-12-21,Automotive,483.15,80,Shuffletag,Qufu,675,Premium,2024,12
+546,34,2025-03-01,Toys,24.85,29,Eazzy,Mislīyah,723,Premium,2025,3
+547,199,2024-11-23,Computers,368.33,3,Npath,Pesagen,305,Estandar,2024,11
+548,46,2025-02-06,Computers,420.61,26,Riffpath,Cadagmayan Norte,788,Estandar,2025,2
+549,175,2024-12-25,Shoes,339.38,33,Topiczoom,Xarrë,811,Premium,2024,12
+550,38,2025-01-17,Industrial,76.89,30,Vinte,That Phanom,944,Estandar,2025,1
+551,177,2024-07-25,Home,48.82,81,Eare,Övertorneå,957,Premium,2024,7
+552,151,2024-08-19,Home,150.52,100,JumpXS,Nianba,839,Premium,2024,8
+553,118,2025-05-31,Toys,265.75,37,Tagchat,El Gouna,379,Premium,2025,5
+554,195,2024-09-23,Books,412.59,24,Photobean,Alvand,956,Premium,2024,9
+555,195,2025-06-15,Electronics,123.12,18,Photobean,Alvand,956,Premium,2025,6
+556,153,2024-11-12,Garden,263.47,46,Fadeo,Stockholm,713,Estandar,2024,11
+557,79,2024-08-22,Outdoors,73.07,96,Kanoodle,Bandera,546,Premium,2024,8
+558,46,2025-02-11,Garden,219.94,6,Riffpath,Cadagmayan Norte,788,Estandar,2025,2
+559,44,2024-12-06,Beauty,246.51,21,Roombo,Ritaebang,735,Estandar,2024,12
+560,117,2025-02-07,Clothing,494.79,74,Mydeo,Bandaragung,696,Estandar,2025,2
+561,166,2025-02-02,Industrial,287.24,50,Rhybox,Maskinongé,866,Premium,2025,2
+562,148,2024-09-06,Electronics,295.81,99,Yoveo,Shisandaogou,473,Estandar,2024,9
+563,164,2024-07-29,Jewelry,390.37,66,Skibox,New Iloilo,135,Premium,2024,7
+564,84,2024-08-12,Industrial,198.06,43,Tagchat,Bakuriani,158,Premium,2024,8
+565,130,2024-10-07,Beauty,330.41,89,Kayveo,Hyattsville,119,Premium,2024,10
+566,156,2025-05-29,Automotive,97.71,3,Edgepulse,Xinhui,573,Premium,2025,5
+567,20,2025-02-03,Toys,467.55,53,Meedoo,Fianarantsoa,678,Premium,2025,2
+568,174,2025-06-18,Automotive,334.67,77,Jaxspan,Kallithéa,713,Premium,2025,6
+569,14,2024-07-20,Toys,318.62,41,Flashdog,Florida,641,Estandar,2024,7
+570,118,2025-03-20,Music,277.94,98,Tagchat,El Gouna,379,Premium,2025,3
+571,173,2024-09-26,Shoes,454.23,93,Vidoo,Liwu,984,Estandar,2024,9
+572,196,2024-12-18,Sports,261.64,18,Browsezoom,Bali,930,Premium,2024,12
+573,97,2025-04-21,Garden,200.46,92,Skajo,Botlhapatlou,762,Premium,2025,4
+574,35,2024-12-06,Clothing,91.43,59,Babblestorm,La Azulita,491,Premium,2024,12
+575,66,2024-12-05,Beauty,119.09,2,Mydo,Detroit,942,Estandar,2024,12
+576,42,2024-08-23,Automotive,313.77,43,Mydo,Samborondón,795,Premium,2024,8
+577,26,2025-06-16,Health,146.24,96,Oloo,Xukou,486,Premium,2025,6
+578,37,2024-10-10,Beauty,144.97,96,Twitterworks,Todorovo,122,Premium,2024,10
+579,121,2024-08-15,Outdoors,188.64,36,Rhyzio,Carpiquet,362,Estandar,2024,8
+580,9,2025-02-14,Kids,366.39,80,Jayo,Wahai,299,Premium,2025,2
+581,21,2025-03-09,Music,45.26,33,Aivee,Eg,119,Estandar,2025,3
+582,1,2024-12-27,Baby,332.96,83,Realbridge,Isanlu Itedoijowa,582,Premium,2024,12
+583,180,2024-10-06,Sports,451.66,12,Bubblemix,Pasarkuok,959,Estandar,2024,10
+584,183,2025-04-24,Toys,211.98,20,Leexo,San Antonio Oeste,490,Premium,2025,4
+585,67,2025-02-22,Baby,116.2,12,Flashdog,Wulongshan,838,Estandar,2025,2
+586,26,2024-08-01,Baby,212.92,73,Oloo,Xukou,486,Premium,2024,8
+587,123,2024-07-09,Toys,254.96,36,Edgeblab,Metz,819,Premium,2024,7
+588,139,2025-02-16,Clothing,13.41,59,Centimia,Datar,221,Estandar,2025,2
+589,183,2024-10-05,Computers,337.27,99,Leexo,San Antonio Oeste,490,Premium,2024,10
+590,86,2025-04-05,Music,267.99,100,Shuffletag,Qufu,675,Premium,2025,4
+591,22,2024-10-25,Jewelry,209.86,94,Divape,Ya’ergenchu,861,Premium,2024,10
+592,122,2025-06-06,Outdoors,443.25,17,Layo,Krajan,728,Estandar,2025,6
+593,144,2024-07-29,Clothing,198.61,63,Vitz,Jinshan,711,Premium,2024,7
+594,25,2025-06-10,Toys,295.88,70,Jaxworks,Watthana Nakhon,714,Premium,2025,6
+595,160,2024-08-15,Movies,205.57,48,Jabbersphere,Saarbrücken,866,Estandar,2024,8
+596,140,2025-02-15,Grocery,369.86,52,Twitterbeat,Zhaike,676,Estandar,2025,2
+597,146,2024-06-19,Toys,180.96,56,Youfeed,Claremont,965,Estandar,2024,6
+598,101,2025-02-23,Industrial,60.17,67,BlogXS,Floriana,296,Premium,2025,2
+599,165,2024-12-14,Shoes,487.32,74,Yakitri,Lena,134,Premium,2024,12
+600,49,2025-05-13,Shoes,449.27,22,Skidoo,Khuzhir,776,Estandar,2025,5
+601,60,2025-01-31,Toys,12.18,88,Realcube,Thị Trấn Thất Khê,164,Estandar,2025,1
+602,72,2024-10-01,Health,40.43,56,Photobug,Dubrovka,415,Estandar,2024,10
+603,81,2025-01-30,Books,290.12,55,Skynoodle,Bom Jesus do Itabapoana,995,Premium,2025,1
+604,40,2025-03-04,Clothing,100.15,8,Jaxspan,Tournon-sur-Rhône,848,Estandar,2025,3
+605,83,2025-01-10,Movies,491.95,42,Cogidoo,Kafir Yasif,649,Premium,2025,1
+606,187,2025-02-23,Shoes,401.34,86,Wikizz,Būlaevo,942,Estandar,2025,2
+607,172,2024-09-12,Outdoors,133.4,92,Kimia,Brzeźnica,387,Estandar,2024,9
+608,126,2024-10-10,Kids,485.64,99,Eidel,Llipa,905,Premium,2024,10
+609,18,2025-04-08,Music,353.85,63,Vinder,Berendeyevo,375,Estandar,2025,4
+610,27,2024-12-06,Baby,262.64,37,Pixonyx,Luodian,214,Estandar,2024,12
+611,70,2024-09-30,Industrial,359.93,31,Tazz,Tomaszów Lubelski,208,Estandar,2024,9
+612,31,2024-09-29,Music,262.88,46,Cogilith,Bernal,678,Estandar,2024,9
+613,3,2024-11-10,Electronics,280.43,36,Jatri,Katima Mulilo,476,Premium,2024,11
+614,41,2024-09-24,Movies,126.91,45,Kanoodle,San Luis,515,Premium,2024,9
+615,70,2024-12-07,Computers,332.62,95,Tazz,Tomaszów Lubelski,208,Estandar,2024,12
+616,25,2025-04-05,Computers,331.4,40,Jaxworks,Watthana Nakhon,714,Premium,2025,4
+617,177,2024-10-17,Toys,42.96,81,Eare,Övertorneå,957,Premium,2024,10
+618,110,2025-05-17,Baby,468.64,45,Photofeed,Odintsovo,426,Estandar,2025,5
+619,44,2024-09-05,Grocery,31.09,6,Roombo,Ritaebang,735,Estandar,2024,9
+620,179,2024-07-18,Clothing,357.16,88,Topicstorm,Abakaliki,238,Premium,2024,7
+621,123,2024-11-14,Outdoors,321.02,5,Edgeblab,Metz,819,Premium,2024,11
+622,169,2025-06-15,Jewelry,317.23,55,Yakitri,Aborlan,606,Estandar,2025,6
+623,44,2025-04-16,Automotive,239.5,36,Roombo,Ritaebang,735,Estandar,2025,4
+624,177,2025-03-25,Beauty,402.22,83,Eare,Övertorneå,957,Premium,2025,3
+625,173,2025-03-29,Sports,316.3,62,Vidoo,Liwu,984,Estandar,2025,3
+626,181,2025-03-10,Books,239.1,27,Riffpath,Anchorage,703,Premium,2025,3
+627,174,2024-07-27,Books,209.49,24,Jaxspan,Kallithéa,713,Premium,2024,7
+628,125,2025-01-02,Tools,216.43,70,Omba,Yartsevo,736,Estandar,2025,1
+629,119,2025-06-01,Beauty,345.23,43,Aivee,Köyliö,779,Estandar,2025,6
+630,174,2024-08-27,Home,178.11,16,Jaxspan,Kallithéa,713,Premium,2024,8
+631,54,2024-07-19,Baby,323.43,11,Vitz,Kislyakovskaya,260,Estandar,2024,7
+632,16,2025-05-21,Jewelry,475.54,37,Quatz,Pandansari,766,Premium,2025,5
+633,130,2024-06-27,Music,50.49,75,Kayveo,Hyattsville,119,Premium,2024,6
+634,81,2024-07-27,Toys,401.26,96,Skynoodle,Bom Jesus do Itabapoana,995,Premium,2024,7
+635,59,2025-03-27,Tools,311.65,93,Vimbo,Vrbas,824,Estandar,2025,3
+636,85,2025-06-03,Garden,450.91,61,Fatz,Mangdang,925,Premium,2025,6
+637,158,2024-07-01,Health,44.85,86,Trupe,El Soberbio,419,Estandar,2024,7
+638,145,2025-01-15,Home,435.59,13,Fliptune,Modosinal,526,Premium,2025,1
+639,154,2024-11-03,Grocery,50.01,37,Twitterbeat,Ngudu,263,Estandar,2024,11
+640,148,2025-03-06,Jewelry,35.19,12,Yoveo,Shisandaogou,473,Estandar,2025,3
+641,62,2024-08-01,Music,273.72,37,Yodoo,Lapu-Lapu City,614,Estandar,2024,8
+642,126,2025-01-21,Electronics,361.21,1,Eidel,Llipa,905,Premium,2025,1
+643,87,2025-05-07,Industrial,285.11,54,Skaboo,Mayskiy,803,Estandar,2025,5
+644,5,2024-12-02,Toys,63.69,58,Livetube,Āsmār,807,Estandar,2024,12
+645,45,2025-01-19,Games,83.18,78,Dabfeed,Dougou,641,Estandar,2025,1
+646,130,2025-05-29,Sports,66.46,21,Kayveo,Hyattsville,119,Premium,2025,5
+647,47,2025-03-12,Kids,183.44,33,Aivee,Bāglung,476,Premium,2025,3
+648,89,2024-11-22,Electronics,173.89,13,Midel,Bilaran,115,Estandar,2024,11
+649,182,2025-04-16,Games,117.1,75,Zooveo,Żyrardów,389,Estandar,2025,4
+650,125,2024-11-03,Tools,142.18,47,Omba,Yartsevo,736,Estandar,2024,11
+651,28,2024-10-16,Movies,371.48,43,Kanoodle,Ziębice,167,Premium,2024,10
+652,197,2025-04-22,Beauty,322.71,40,Jaloo,Fengyuan,869,Premium,2025,4
+653,198,2025-05-13,Industrial,38.54,44,Camimbo,Al ‘Azīzīyah,447,Estandar,2025,5
+654,154,2024-07-22,Shoes,416.08,60,Twitterbeat,Ngudu,263,Estandar,2024,7
+655,2,2024-07-05,Kids,413.5,66,Gigazoom,Libas,708,Estandar,2024,7
+656,15,2024-09-10,Electronics,122.01,52,Skyvu,Clonskeagh,531,Premium,2024,9
+657,89,2024-09-11,Shoes,243.14,81,Midel,Bilaran,115,Estandar,2024,9
+658,84,2024-12-13,Tools,259.02,15,Tagchat,Bakuriani,158,Premium,2024,12
+659,1,2025-02-06,Games,496.19,81,Realbridge,Isanlu Itedoijowa,582,Premium,2025,2
+660,51,2024-10-27,Shoes,221.82,64,Camido,Leiria,592,Premium,2024,10
+661,63,2024-08-03,Outdoors,477.13,66,Skinte,Vạn Giã,832,Premium,2024,8
+662,82,2024-09-11,Baby,378.97,61,Kwideo,Aygeshat,586,Premium,2024,9
+663,23,2025-01-23,Sports,266.67,83,Meevee,Ashgabat,653,Estandar,2025,1
+664,90,2025-04-16,Clothing,413.33,74,Vinder,Gīdolē,369,Premium,2025,4
+665,144,2024-09-23,Electronics,482.41,15,Vitz,Jinshan,711,Premium,2024,9
+666,151,2025-02-02,Movies,182.88,53,JumpXS,Nianba,839,Premium,2025,2
+667,178,2024-07-08,Baby,181.56,53,Yabox,Igbor,827,Premium,2024,7
+668,27,2024-08-23,Health,428.71,60,Pixonyx,Luodian,214,Estandar,2024,8
+669,162,2025-05-21,Books,24.63,94,Yata,Yingpu,686,Estandar,2025,5
+670,172,2024-10-06,Industrial,492.01,21,Kimia,Brzeźnica,387,Estandar,2024,10
+671,143,2024-10-18,Automotive,180.82,42,Eadel,Kawangohari,567,Premium,2024,10
+672,9,2025-02-05,Books,228.05,62,Jayo,Wahai,299,Premium,2025,2
+673,187,2024-07-13,Jewelry,52.0,72,Wikizz,Būlaevo,942,Estandar,2024,7
+674,81,2025-06-15,Health,176.74,19,Skynoodle,Bom Jesus do Itabapoana,995,Premium,2025,6
+675,1,2024-07-18,Outdoors,147.11,54,Realbridge,Isanlu Itedoijowa,582,Premium,2024,7
+676,15,2024-10-01,Beauty,128.14,71,Skyvu,Clonskeagh,531,Premium,2024,10
+677,107,2025-04-29,Beauty,457.56,77,Wikizz,Kintinku,795,Estandar,2025,4
+678,110,2024-12-24,Shoes,256.39,36,Photofeed,Odintsovo,426,Estandar,2024,12
+679,83,2024-09-06,Sports,59.58,54,Cogidoo,Kafir Yasif,649,Premium,2024,9
+680,154,2024-11-27,Health,385.4,90,Twitterbeat,Ngudu,263,Estandar,2024,11
+681,48,2024-09-21,Outdoors,79.71,59,Ozu,Kombandaru,131,Premium,2024,9
+682,199,2024-09-05,Jewelry,164.76,40,Npath,Pesagen,305,Estandar,2024,9
+683,57,2025-02-01,Music,328.89,36,Youbridge,Oklahoma City,731,Estandar,2025,2
+684,130,2024-07-24,Games,414.06,14,Kayveo,Hyattsville,119,Premium,2024,7
+685,135,2024-10-04,Toys,22.14,61,Skivee,Vale Maceiras,335,Estandar,2024,10
+686,83,2025-02-05,Toys,335.63,6,Cogidoo,Kafir Yasif,649,Premium,2025,2
+687,141,2025-05-15,Grocery,81.45,10,Oyondu,Daitou,151,Estandar,2025,5
+688,2,2025-02-01,Home,321.2,9,Gigazoom,Libas,708,Estandar,2025,2
+689,188,2025-04-10,Electronics,434.27,74,Jaxnation,Vigo,946,Premium,2025,4
+690,32,2024-08-17,Music,380.79,54,Zoomzone,Nanjie,894,Estandar,2024,8
+691,7,2024-08-02,Clothing,68.09,24,Realblab,Trondheim,381,Estandar,2024,8
+692,195,2025-01-24,Health,335.37,47,Photobean,Alvand,956,Premium,2025,1
+693,94,2024-10-23,Garden,484.53,54,Kwilith,Huaqiao,737,Premium,2024,10
+694,118,2025-06-04,Music,109.33,89,Tagchat,El Gouna,379,Premium,2025,6
+695,63,2024-09-17,Grocery,308.41,96,Skinte,Vạn Giã,832,Premium,2024,9
+696,7,2025-04-20,Outdoors,467.77,13,Realblab,Trondheim,381,Estandar,2025,4
+697,16,2024-07-20,Books,24.64,41,Quatz,Pandansari,766,Premium,2024,7
+698,14,2024-06-30,Tools,202.62,54,Flashdog,Florida,641,Estandar,2024,6
+699,69,2024-09-17,Jewelry,320.79,55,Trudoo,Cikeper,305,Premium,2024,9
+700,24,2024-07-23,Health,177.91,20,Jayo,Ami,212,Premium,2024,7
+701,161,2024-08-25,Toys,245.89,35,Latz,Baiyang,894,Premium,2024,8
+702,176,2025-05-05,Garden,158.39,24,Twimbo,Bangad,544,Premium,2025,5
+703,136,2024-09-06,Outdoors,250.38,88,Tagopia,Matoupu,285,Estandar,2024,9
+704,22,2024-09-25,Baby,462.94,61,Divape,Ya’ergenchu,861,Premium,2024,9
+705,2,2025-05-15,Garden,236.89,51,Gigazoom,Libas,708,Estandar,2025,5
+706,59,2024-08-19,Tools,129.84,53,Vimbo,Vrbas,824,Estandar,2024,8
+707,25,2024-08-02,Books,329.33,59,Jaxworks,Watthana Nakhon,714,Premium,2024,8
+708,167,2024-10-28,Beauty,335.86,8,Lajo,General Luna,116,Premium,2024,10
+709,89,2024-09-07,Tools,230.47,99,Midel,Bilaran,115,Estandar,2024,9
+710,92,2025-03-17,Baby,207.04,98,Dabfeed,Khudāydād Khēl,731,Estandar,2025,3
+711,131,2025-04-08,Computers,121.2,25,Miboo,Galán,526,Premium,2025,4
+712,195,2024-09-11,Grocery,468.89,5,Photobean,Alvand,956,Premium,2024,9
+713,167,2024-09-25,Sports,311.03,75,Lajo,General Luna,116,Premium,2024,9
+714,20,2024-09-18,Outdoors,474.12,32,Meedoo,Fianarantsoa,678,Premium,2024,9
+715,1,2024-07-09,Kids,35.86,64,Realbridge,Isanlu Itedoijowa,582,Premium,2024,7
+716,54,2024-07-28,Home,26.46,80,Vitz,Kislyakovskaya,260,Estandar,2024,7
+717,128,2025-02-14,Home,318.69,53,Feednation,Cantaura,684,Estandar,2025,2
+718,117,2024-08-20,Shoes,239.63,75,Mydeo,Bandaragung,696,Estandar,2024,8
+719,100,2024-08-07,Beauty,411.4,20,Twimm,Seres,945,Estandar,2024,8
+720,57,2025-01-03,Books,272.85,80,Youbridge,Oklahoma City,731,Estandar,2025,1
+721,32,2025-04-29,Kids,307.62,73,Zoomzone,Nanjie,894,Estandar,2025,4
+722,34,2025-06-12,Health,148.1,7,Eazzy,Mislīyah,723,Premium,2025,6
+723,114,2024-06-30,Games,254.64,14,Eidel,Bayan-Ovoo,241,Estandar,2024,6
+724,126,2024-10-26,Games,185.07,62,Eidel,Llipa,905,Premium,2024,10
+725,186,2024-11-13,Jewelry,344.77,87,Yakidoo,Santa Maria,922,Estandar,2024,11
+726,200,2025-04-07,Shoes,164.88,1,Voonix,Prilep,235,Premium,2025,4
+727,148,2024-12-15,Kids,426.57,93,Yoveo,Shisandaogou,473,Estandar,2024,12
+728,95,2024-07-30,Toys,52.09,62,Feedfire,Soufrière,320,Estandar,2024,7
+729,59,2024-12-11,Clothing,266.13,24,Vimbo,Vrbas,824,Estandar,2024,12
+730,144,2024-11-17,Movies,204.96,87,Vitz,Jinshan,711,Premium,2024,11
+731,36,2024-12-02,Jewelry,227.47,81,Yoveo,Chóra,110,Premium,2024,12
+732,22,2025-03-08,Tools,73.98,49,Divape,Ya’ergenchu,861,Premium,2025,3
+733,116,2024-10-09,Music,379.36,89,Ailane,Nema,512,Estandar,2024,10
+734,181,2024-07-01,Tools,471.79,10,Riffpath,Anchorage,703,Premium,2024,7
+735,144,2024-09-18,Garden,192.24,62,Vitz,Jinshan,711,Premium,2024,9
+736,115,2024-07-18,Health,91.76,61,Ntag,Côte-Saint-Luc,507,Premium,2024,7
+737,73,2025-03-26,Garden,263.39,98,Devify,Uppsala,206,Estandar,2025,3
+738,49,2024-10-30,Computers,132.16,27,Skidoo,Khuzhir,776,Estandar,2024,10
+739,134,2024-07-03,Automotive,252.5,11,Rhybox,Zonghan,482,Premium,2024,7
+740,25,2024-12-08,Beauty,182.4,15,Jaxworks,Watthana Nakhon,714,Premium,2024,12
+741,126,2025-03-06,Outdoors,158.93,33,Eidel,Llipa,905,Premium,2025,3
+742,2,2024-08-17,Movies,238.29,23,Gigazoom,Libas,708,Estandar,2024,8
+743,62,2025-04-20,Baby,382.13,7,Yodoo,Lapu-Lapu City,614,Estandar,2025,4
+744,71,2025-05-13,Games,316.36,98,Pixonyx,Nîmes,708,Estandar,2025,5
+745,142,2025-05-14,Industrial,417.4,68,Linkbuzz,Valparaíso,203,Estandar,2025,5
+746,63,2025-05-05,Electronics,479.05,17,Skinte,Vạn Giã,832,Premium,2025,5
+747,179,2024-08-05,Kids,403.14,80,Topicstorm,Abakaliki,238,Premium,2024,8
+748,82,2025-03-03,Clothing,33.86,38,Kwideo,Aygeshat,586,Premium,2025,3
+749,176,2024-09-30,Automotive,343.18,97,Twimbo,Bangad,544,Premium,2024,9
+750,91,2025-03-01,Tools,468.72,70,Feednation,Shuiji,577,Estandar,2025,3
+751,82,2025-02-08,Movies,384.19,73,Kwideo,Aygeshat,586,Premium,2025,2
+752,93,2025-02-09,Kids,413.13,84,Trilia,Bharatpur,286,Estandar,2025,2
+753,60,2025-04-26,Grocery,402.98,14,Realcube,Thị Trấn Thất Khê,164,Estandar,2025,4
+754,103,2025-02-20,Games,97.45,39,Twitterbridge,Punat,623,Premium,2025,2
+755,82,2025-03-19,Grocery,260.94,67,Kwideo,Aygeshat,586,Premium,2025,3
+756,167,2025-03-10,Outdoors,22.41,50,Lajo,General Luna,116,Premium,2025,3
+757,47,2025-01-29,Music,120.35,18,Aivee,Bāglung,476,Premium,2025,1
+758,71,2024-07-04,Garden,274.8,15,Pixonyx,Nîmes,708,Estandar,2024,7
+759,55,2024-11-19,Books,382.9,46,Fivechat,Candelaria,321,Estandar,2024,11
+760,93,2025-06-16,Jewelry,114.24,83,Trilia,Bharatpur,286,Estandar,2025,6
+761,44,2024-11-09,Movies,104.13,74,Roombo,Ritaebang,735,Estandar,2024,11
+762,91,2024-07-23,Clothing,10.01,72,Feednation,Shuiji,577,Estandar,2024,7
+763,57,2024-10-09,Home,426.35,6,Youbridge,Oklahoma City,731,Estandar,2024,10
+764,139,2025-01-23,Home,448.89,57,Centimia,Datar,221,Estandar,2025,1
+765,116,2024-09-27,Tools,396.09,94,Ailane,Nema,512,Estandar,2024,9
+766,120,2025-04-03,Baby,444.11,65,Shuffletag,Cambanay,526,Estandar,2025,4
+767,29,2025-02-18,Sports,122.62,58,InnoZ,Los Nogales,574,Premium,2025,2
+768,50,2024-06-29,Games,169.37,71,Flipbug,Lalupon,744,Premium,2024,6
+769,163,2025-03-16,Computers,465.94,18,Jaxspan,Ouijjane,777,Estandar,2025,3
+770,72,2024-06-30,Jewelry,192.79,5,Photobug,Dubrovka,415,Estandar,2024,6
+771,162,2025-06-01,Health,442.32,39,Yata,Yingpu,686,Estandar,2025,6
+772,22,2025-04-03,Movies,360.89,72,Divape,Ya’ergenchu,861,Premium,2025,4
+773,108,2024-06-29,Toys,286.66,92,Rhyzio,Shangde,577,Premium,2024,6
+774,171,2024-07-29,Music,152.43,46,Quatz,Belyayevka,243,Premium,2024,7
+775,67,2024-06-19,Garden,315.47,22,Flashdog,Wulongshan,838,Estandar,2024,6
+776,39,2024-12-12,Clothing,283.77,97,Meedoo,Kasaoka,641,Estandar,2024,12
+777,162,2024-11-04,Movies,264.14,98,Yata,Yingpu,686,Estandar,2024,11
+778,33,2025-03-15,Electronics,31.33,54,Rooxo,Donnacona,769,Estandar,2025,3
+779,75,2024-11-10,Kids,328.65,68,Realfire,Surkh Bilandī,816,Premium,2024,11
+780,189,2024-12-04,Automotive,398.31,82,Dabjam,Cibolang,878,Premium,2024,12
+781,112,2024-06-21,Shoes,355.91,45,Jaloo,Aromashevo,948,Estandar,2024,6
+782,181,2024-09-07,Grocery,421.26,53,Riffpath,Anchorage,703,Premium,2024,9
+783,194,2024-10-16,Home,236.55,35,Flipbug,Jiangjiazui,210,Estandar,2024,10
+784,133,2024-11-25,Health,324.39,92,Flashset,Kihniö,167,Estandar,2024,11
+785,167,2024-11-09,Home,112.57,38,Lajo,General Luna,116,Premium,2024,11
+786,131,2025-01-21,Computers,265.0,41,Miboo,Galán,526,Premium,2025,1
+787,164,2025-06-10,Movies,304.12,5,Skibox,New Iloilo,135,Premium,2025,6
+788,199,2025-02-12,Movies,23.13,90,Npath,Pesagen,305,Estandar,2025,2
+789,122,2024-12-08,Home,211.22,29,Layo,Krajan,728,Estandar,2024,12
+790,152,2024-07-20,Industrial,489.11,71,Skimia,Khursā,694,Estandar,2024,7
+791,35,2025-01-31,Garden,225.08,60,Babblestorm,La Azulita,491,Premium,2025,1
+792,28,2024-10-15,Jewelry,444.25,39,Kanoodle,Ziębice,167,Premium,2024,10
+793,93,2025-01-16,Garden,350.2,38,Trilia,Bharatpur,286,Estandar,2025,1
+794,137,2025-02-03,Clothing,316.27,64,Chatterpoint,Buenos Aires,110,Estandar,2025,2
+795,73,2024-10-08,Grocery,148.24,98,Devify,Uppsala,206,Estandar,2024,10
+796,44,2025-05-11,Grocery,430.68,41,Roombo,Ritaebang,735,Estandar,2025,5
+797,13,2025-03-21,Sports,364.49,2,Mydo,Zhanghekou,392,Premium,2025,3
+798,152,2025-06-07,Sports,150.06,86,Skimia,Khursā,694,Estandar,2025,6
+799,20,2024-06-22,Toys,423.78,51,Meedoo,Fianarantsoa,678,Premium,2024,6
+800,173,2024-11-17,Shoes,461.56,27,Vidoo,Liwu,984,Estandar,2024,11
+801,186,2024-11-05,Outdoors,64.13,24,Yakidoo,Santa Maria,922,Estandar,2024,11
+802,151,2025-02-13,Beauty,14.85,86,JumpXS,Nianba,839,Premium,2025,2
+803,126,2025-05-07,Health,181.0,26,Eidel,Llipa,905,Premium,2025,5
+804,164,2024-08-11,Shoes,241.6,82,Skibox,New Iloilo,135,Premium,2024,8
+805,99,2025-05-13,Books,430.18,65,Youopia,Mossendjo,523,Premium,2025,5
+806,7,2024-10-29,Movies,373.87,67,Realblab,Trondheim,381,Estandar,2024,10
+807,27,2024-08-30,Home,182.94,16,Pixonyx,Luodian,214,Estandar,2024,8
+808,56,2024-12-07,Music,419.61,6,Realcube,Candelária,547,Estandar,2024,12
+809,188,2025-06-10,Outdoors,159.24,50,Jaxnation,Vigo,946,Premium,2025,6
+810,45,2025-03-29,Automotive,436.32,75,Dabfeed,Dougou,641,Estandar,2025,3
+811,111,2024-11-02,Books,182.48,68,Riffpedia,Delray Beach,326,Premium,2024,11
+812,77,2024-07-13,Beauty,479.27,10,Yabox,La Habana Vieja,924,Estandar,2024,7
+813,200,2025-05-02,Automotive,375.97,49,Voonix,Prilep,235,Premium,2025,5
+814,106,2024-06-23,Books,111.87,62,Zoombox,Cipinang,843,Estandar,2024,6
+815,2,2025-05-23,Health,172.1,1,Gigazoom,Libas,708,Estandar,2025,5
+816,170,2024-08-16,Books,385.57,61,Devpulse,Yangxunqiao,349,Estandar,2024,8
+817,165,2024-11-15,Garden,343.15,91,Yakitri,Lena,134,Premium,2024,11
+818,85,2025-01-20,Toys,113.21,26,Fatz,Mangdang,925,Premium,2025,1
+819,167,2024-09-19,Tools,24.89,35,Lajo,General Luna,116,Premium,2024,9
+820,167,2024-12-22,Toys,462.26,14,Lajo,General Luna,116,Premium,2024,12
+821,93,2025-04-11,Industrial,119.12,14,Trilia,Bharatpur,286,Estandar,2025,4
+822,35,2025-04-27,Music,342.07,27,Babblestorm,La Azulita,491,Premium,2025,4
+823,189,2024-10-19,Grocery,352.88,64,Dabjam,Cibolang,878,Premium,2024,10
+824,137,2025-05-29,Jewelry,97.44,81,Chatterpoint,Buenos Aires,110,Estandar,2025,5
+825,43,2025-01-08,Clothing,453.5,18,Aimbo,Sobontoro,649,Estandar,2025,1
+826,26,2024-07-31,Clothing,388.8,58,Oloo,Xukou,486,Premium,2024,7
+827,30,2025-03-28,Automotive,352.43,90,Yodo,Vatutino,892,Estandar,2025,3
+828,2,2024-06-21,Home,385.03,48,Gigazoom,Libas,708,Estandar,2024,6
+829,158,2024-11-17,Music,450.04,10,Trupe,El Soberbio,419,Estandar,2024,11
+830,9,2024-07-21,Home,14.19,37,Jayo,Wahai,299,Premium,2024,7
+831,92,2024-08-30,Tools,255.13,7,Dabfeed,Khudāydād Khēl,731,Estandar,2024,8
+832,33,2024-07-15,Industrial,74.63,89,Rooxo,Donnacona,769,Estandar,2024,7
+833,197,2025-04-28,Electronics,472.93,27,Jaloo,Fengyuan,869,Premium,2025,4
+834,160,2025-03-28,Games,129.67,1,Jabbersphere,Saarbrücken,866,Estandar,2025,3
+835,74,2025-03-01,Music,77.77,76,Meedoo,Taounate,600,Premium,2025,3
+836,137,2025-04-25,Tools,13.04,79,Chatterpoint,Buenos Aires,110,Estandar,2025,4
+837,53,2024-09-26,Automotive,46.7,11,Izio,Nantes,202,Estandar,2024,9
+838,188,2025-05-02,Computers,414.38,94,Jaxnation,Vigo,946,Premium,2025,5
+839,61,2025-06-06,Clothing,328.98,78,Avamm,Bweyogerere,497,Premium,2025,6
+840,141,2024-12-04,Baby,305.27,30,Oyondu,Daitou,151,Estandar,2024,12
+841,117,2024-08-17,Shoes,327.03,85,Mydeo,Bandaragung,696,Estandar,2024,8
+842,191,2025-03-30,Toys,106.84,22,Camimbo,Kpalimé,468,Premium,2025,3
+843,8,2024-10-15,Shoes,247.75,13,Jetwire,Marilao,764,Premium,2024,10
+844,72,2025-02-12,Electronics,221.71,89,Photobug,Dubrovka,415,Estandar,2025,2
+845,105,2025-01-09,Kids,103.71,35,Eadel,Spitak,141,Premium,2025,1
+846,122,2024-09-06,Health,451.33,66,Layo,Krajan,728,Estandar,2024,9
+847,151,2025-05-03,Grocery,395.83,95,JumpXS,Nianba,839,Premium,2025,5
+848,181,2024-07-21,Electronics,342.0,98,Riffpath,Anchorage,703,Premium,2024,7
+849,106,2025-02-06,Clothing,218.37,81,Zoombox,Cipinang,843,Estandar,2025,2
+850,79,2024-10-17,Jewelry,97.13,63,Kanoodle,Bandera,546,Premium,2024,10
+851,124,2025-02-18,Jewelry,430.52,7,Dabfeed,Fanhu,280,Premium,2025,2
+852,10,2025-04-30,Movies,87.23,91,Eamia,Mingshan,988,Estandar,2025,4
+853,19,2025-03-29,Clothing,339.27,15,Dynava,Xinjie,202,Premium,2025,3
+854,78,2024-12-19,Sports,247.17,98,Janyx,Esmeraldas,268,Premium,2024,12
+855,119,2025-05-17,Health,263.89,29,Aivee,Köyliö,779,Estandar,2025,5
+856,149,2024-08-03,Grocery,411.82,74,Ainyx,Khanabad,274,Premium,2024,8
+857,20,2025-03-11,Movies,65.84,57,Meedoo,Fianarantsoa,678,Premium,2025,3
+858,51,2025-06-06,Games,254.28,3,Camido,Leiria,592,Premium,2025,6
+859,39,2024-07-19,Shoes,121.21,62,Meedoo,Kasaoka,641,Estandar,2024,7
+860,12,2024-11-13,Home,396.86,67,Jaxnation,Krasnoshchekovo,258,Estandar,2024,11
+861,101,2024-08-16,Baby,377.05,96,BlogXS,Floriana,296,Premium,2024,8
+862,27,2025-02-10,Home,76.36,26,Pixonyx,Luodian,214,Estandar,2025,2
+863,106,2024-09-13,Games,15.26,95,Zoombox,Cipinang,843,Estandar,2024,9
+864,61,2024-12-19,Computers,259.06,67,Avamm,Bweyogerere,497,Premium,2024,12
+865,159,2024-08-04,Beauty,349.03,30,Twitterbeat,"Palmas De Gran Canaria, Las",494,Estandar,2024,8
+866,69,2024-06-22,Outdoors,357.44,55,Trudoo,Cikeper,305,Premium,2024,6
+867,182,2024-10-17,Beauty,40.69,54,Zooveo,Żyrardów,389,Estandar,2024,10
+868,96,2024-08-15,Movies,89.82,15,Einti,Lukhovka,453,Premium,2024,8
+869,188,2025-05-11,Grocery,215.33,68,Jaxnation,Vigo,946,Premium,2025,5
+870,127,2024-08-27,Movies,302.6,97,Ntags,Fuquan,838,Estandar,2024,8
+871,21,2024-10-10,Kids,135.11,58,Aivee,Eg,119,Estandar,2024,10
+872,24,2024-09-14,Electronics,355.14,74,Jayo,Ami,212,Premium,2024,9
+873,130,2024-08-11,Movies,489.56,37,Kayveo,Hyattsville,119,Premium,2024,8
+874,129,2025-06-12,Toys,229.09,65,Latz,Santa Rita,108,Estandar,2025,6
+875,14,2024-09-26,Industrial,332.77,85,Flashdog,Florida,641,Estandar,2024,9
+876,18,2025-03-10,Garden,94.98,21,Vinder,Berendeyevo,375,Estandar,2025,3
+877,4,2025-05-05,Music,394.44,28,Jabberbean,Tongjing,859,Estandar,2025,5
+878,42,2024-11-20,Beauty,339.13,18,Mydo,Samborondón,795,Premium,2024,11
+879,32,2024-11-05,Grocery,223.44,31,Zoomzone,Nanjie,894,Estandar,2024,11
+880,135,2025-04-18,Garden,305.47,53,Skivee,Vale Maceiras,335,Estandar,2025,4
+881,125,2024-07-12,Computers,364.64,71,Omba,Yartsevo,736,Estandar,2024,7
+882,110,2025-02-17,Toys,491.5,39,Photofeed,Odintsovo,426,Estandar,2025,2
+883,4,2024-07-18,Games,494.22,19,Jabberbean,Tongjing,859,Estandar,2024,7
+884,115,2025-02-03,Jewelry,40.33,19,Ntag,Côte-Saint-Luc,507,Premium,2025,2
+885,63,2024-11-28,Books,440.19,60,Skinte,Vạn Giã,832,Premium,2024,11
+886,114,2025-02-28,Sports,206.82,77,Eidel,Bayan-Ovoo,241,Estandar,2025,2
+887,142,2025-05-10,Garden,87.91,84,Linkbuzz,Valparaíso,203,Estandar,2025,5
+888,143,2024-10-16,Books,338.44,69,Eadel,Kawangohari,567,Premium,2024,10
+889,47,2025-02-21,Tools,64.62,90,Aivee,Bāglung,476,Premium,2025,2
+890,41,2025-04-01,Jewelry,120.66,7,Kanoodle,San Luis,515,Premium,2025,4
+891,40,2025-05-06,Jewelry,260.85,66,Jaxspan,Tournon-sur-Rhône,848,Estandar,2025,5
+892,30,2025-06-08,Tools,103.44,35,Yodo,Vatutino,892,Estandar,2025,6
+893,25,2025-02-20,Toys,339.83,69,Jaxworks,Watthana Nakhon,714,Premium,2025,2
+894,115,2025-05-08,Baby,188.51,21,Ntag,Côte-Saint-Luc,507,Premium,2025,5
+895,25,2024-08-30,Beauty,309.35,16,Jaxworks,Watthana Nakhon,714,Premium,2024,8
+896,30,2025-04-19,Home,188.68,27,Yodo,Vatutino,892,Estandar,2025,4
+897,167,2025-03-12,Garden,337.11,85,Lajo,General Luna,116,Premium,2025,3
+898,170,2024-10-10,Industrial,388.24,32,Devpulse,Yangxunqiao,349,Estandar,2024,10
+899,78,2025-04-01,Baby,350.38,49,Janyx,Esmeraldas,268,Premium,2025,4
+900,189,2024-08-04,Toys,116.1,27,Dabjam,Cibolang,878,Premium,2024,8
+901,58,2025-05-09,Baby,178.28,95,Mudo,Itapecerica,198,Premium,2025,5
+902,83,2025-01-18,Music,474.76,17,Cogidoo,Kafir Yasif,649,Premium,2025,1
+903,83,2025-03-28,Grocery,187.26,9,Cogidoo,Kafir Yasif,649,Premium,2025,3
+904,51,2025-01-28,Grocery,201.69,54,Camido,Leiria,592,Premium,2025,1
+905,85,2025-04-26,Kids,202.33,94,Fatz,Mangdang,925,Premium,2025,4
+906,106,2024-12-23,Outdoors,338.18,45,Zoombox,Cipinang,843,Estandar,2024,12
+907,159,2025-02-21,Garden,121.35,31,Twitterbeat,"Palmas De Gran Canaria, Las",494,Estandar,2025,2
+908,41,2024-08-18,Music,302.45,47,Kanoodle,San Luis,515,Premium,2024,8
+909,28,2024-12-22,Grocery,14.26,92,Kanoodle,Ziębice,167,Premium,2024,12
+910,19,2025-01-22,Automotive,288.88,1,Dynava,Xinjie,202,Premium,2025,1
+911,13,2025-02-05,Baby,96.32,20,Mydo,Zhanghekou,392,Premium,2025,2
+912,123,2025-03-24,Shoes,464.41,6,Edgeblab,Metz,819,Premium,2025,3
+913,153,2024-08-29,Music,190.26,19,Fadeo,Stockholm,713,Estandar,2024,8
+914,199,2025-03-19,Sports,485.2,46,Npath,Pesagen,305,Estandar,2025,3
+915,69,2024-12-03,Kids,80.77,25,Trudoo,Cikeper,305,Premium,2024,12
+916,157,2024-10-19,Health,390.91,26,Brainverse,Changxing,577,Premium,2024,10
+917,117,2024-10-27,Movies,198.58,35,Mydeo,Bandaragung,696,Estandar,2024,10
+918,64,2024-12-25,Shoes,329.19,91,Quire,Ryazhsk,909,Estandar,2024,12
+919,6,2025-03-01,Books,10.81,36,Jabbersphere,Jianfeng,164,Premium,2025,3
+920,142,2025-04-28,Sports,68.46,81,Linkbuzz,Valparaíso,203,Estandar,2025,4
+921,19,2024-07-02,Toys,79.46,91,Dynava,Xinjie,202,Premium,2024,7
+922,115,2024-07-24,Clothing,246.33,37,Ntag,Côte-Saint-Luc,507,Premium,2024,7
+923,171,2024-09-17,Garden,427.52,16,Quatz,Belyayevka,243,Premium,2024,9
+924,144,2024-07-25,Sports,313.87,97,Vitz,Jinshan,711,Premium,2024,7
+925,163,2024-10-06,Industrial,41.99,89,Jaxspan,Ouijjane,777,Estandar,2024,10
+926,28,2024-11-13,Grocery,396.41,89,Kanoodle,Ziębice,167,Premium,2024,11
+927,130,2024-08-09,Toys,161.58,13,Kayveo,Hyattsville,119,Premium,2024,8
+928,113,2024-08-24,Computers,330.48,35,Teklist,Kademangan,527,Premium,2024,8
+929,49,2024-09-25,Home,176.69,28,Skidoo,Khuzhir,776,Estandar,2024,9
+930,193,2024-06-21,Beauty,372.18,74,Thoughtsphere,Gråbo,330,Estandar,2024,6
+931,95,2025-05-27,Jewelry,45.99,99,Feedfire,Soufrière,320,Estandar,2025,5
+932,151,2025-04-04,Music,25.45,26,JumpXS,Nianba,839,Premium,2025,4
+933,145,2024-12-27,Kids,385.18,19,Fliptune,Modosinal,526,Premium,2024,12
+934,155,2025-04-09,Toys,446.03,55,Roomm,Kanlagay,884,Premium,2025,4
+935,91,2024-11-21,Sports,244.87,25,Feednation,Shuiji,577,Estandar,2024,11
+936,170,2024-06-20,Garden,267.43,43,Devpulse,Yangxunqiao,349,Estandar,2024,6
+937,107,2025-04-21,Jewelry,312.83,70,Wikizz,Kintinku,795,Estandar,2025,4
+938,5,2024-07-05,Beauty,369.97,17,Livetube,Āsmār,807,Estandar,2024,7
+939,198,2024-09-11,Movies,59.18,75,Camimbo,Al ‘Azīzīyah,447,Estandar,2024,9
+940,9,2025-03-03,Kids,56.58,78,Jayo,Wahai,299,Premium,2025,3
+941,95,2024-12-31,Movies,178.17,91,Feedfire,Soufrière,320,Estandar,2024,12
+942,116,2025-03-24,Shoes,439.11,59,Ailane,Nema,512,Estandar,2025,3
+943,166,2024-10-09,Garden,22.75,53,Rhybox,Maskinongé,866,Premium,2024,10
+944,94,2024-11-04,Games,366.09,68,Kwilith,Huaqiao,737,Premium,2024,11
+945,155,2025-05-23,Games,39.13,78,Roomm,Kanlagay,884,Premium,2025,5
+946,176,2024-07-15,Clothing,184.65,31,Twimbo,Bangad,544,Premium,2024,7
+947,53,2024-12-24,Shoes,439.19,4,Izio,Nantes,202,Estandar,2024,12
+948,7,2024-11-07,Industrial,373.42,16,Realblab,Trondheim,381,Estandar,2024,11
+949,74,2025-03-01,Games,88.01,8,Meedoo,Taounate,600,Premium,2025,3
+950,5,2025-03-16,Electronics,342.23,54,Livetube,Āsmār,807,Estandar,2025,3
+951,11,2024-08-19,Beauty,187.78,69,Tavu,Burns Lake,122,Premium,2024,8
+952,89,2025-05-03,Tools,329.81,55,Midel,Bilaran,115,Estandar,2025,5
+953,189,2025-04-12,Clothing,364.55,56,Dabjam,Cibolang,878,Premium,2025,4
+954,194,2025-06-10,Movies,203.5,21,Flipbug,Jiangjiazui,210,Estandar,2025,6
+955,113,2025-05-21,Books,246.25,34,Teklist,Kademangan,527,Premium,2025,5
+956,21,2024-11-22,Shoes,391.1,60,Aivee,Eg,119,Estandar,2024,11
+957,75,2024-07-14,Games,45.4,54,Realfire,Surkh Bilandī,816,Premium,2024,7
+958,92,2024-12-23,Garden,46.26,55,Dabfeed,Khudāydād Khēl,731,Estandar,2024,12
+959,146,2025-05-23,Sports,279.09,89,Youfeed,Claremont,965,Estandar,2025,5
+960,7,2024-11-07,Outdoors,30.89,12,Realblab,Trondheim,381,Estandar,2024,11
+961,170,2025-02-12,Toys,435.85,14,Devpulse,Yangxunqiao,349,Estandar,2025,2
+962,187,2025-05-28,Automotive,411.84,84,Wikizz,Būlaevo,942,Estandar,2025,5
+963,193,2025-01-20,Garden,13.73,43,Thoughtsphere,Gråbo,330,Estandar,2025,1
+964,156,2024-09-05,Clothing,150.9,42,Edgepulse,Xinhui,573,Premium,2024,9
+965,30,2024-08-02,Shoes,350.73,44,Yodo,Vatutino,892,Estandar,2024,8
+966,127,2025-01-11,Health,108.46,7,Ntags,Fuquan,838,Estandar,2025,1
+967,75,2024-06-23,Industrial,27.06,84,Realfire,Surkh Bilandī,816,Premium,2024,6
+968,135,2025-03-05,Health,140.94,67,Skivee,Vale Maceiras,335,Estandar,2025,3
+969,113,2025-03-27,Industrial,387.76,87,Teklist,Kademangan,527,Premium,2025,3
+970,53,2024-09-02,Electronics,63.92,22,Izio,Nantes,202,Estandar,2024,9
+971,155,2025-01-09,Movies,336.96,76,Roomm,Kanlagay,884,Premium,2025,1
+972,119,2024-06-28,Kids,363.81,88,Aivee,Köyliö,779,Estandar,2024,6
+973,58,2025-01-01,Grocery,419.57,19,Mudo,Itapecerica,198,Premium,2025,1
+974,95,2024-06-25,Shoes,62.14,83,Feedfire,Soufrière,320,Estandar,2024,6
+975,57,2024-10-04,Electronics,155.48,44,Youbridge,Oklahoma City,731,Estandar,2024,10
+976,56,2024-09-13,Games,61.76,83,Realcube,Candelária,547,Estandar,2024,9
+977,65,2025-04-15,Movies,430.92,44,Skipstorm,San Jacinto,843,Estandar,2025,4
+978,199,2025-04-14,Baby,188.19,29,Npath,Pesagen,305,Estandar,2025,4
+979,4,2024-11-06,Beauty,398.64,53,Jabberbean,Tongjing,859,Estandar,2024,11
+980,169,2025-01-10,Kids,143.61,92,Yakitri,Aborlan,606,Estandar,2025,1
+981,129,2024-07-10,Sports,358.68,46,Latz,Santa Rita,108,Estandar,2024,7
+982,23,2025-06-02,Tools,393.85,95,Meevee,Ashgabat,653,Estandar,2025,6
+983,1,2025-02-24,Automotive,330.74,64,Realbridge,Isanlu Itedoijowa,582,Premium,2025,2
+984,63,2024-12-03,Computers,53.55,34,Skinte,Vạn Giã,832,Premium,2024,12
+985,1,2024-06-29,Electronics,44.4,2,Realbridge,Isanlu Itedoijowa,582,Premium,2024,6
+986,28,2024-10-25,Automotive,189.33,65,Kanoodle,Ziębice,167,Premium,2024,10
+987,90,2024-08-08,Grocery,476.43,98,Vinder,Gīdolē,369,Premium,2024,8
+988,49,2025-05-01,Music,221.38,25,Skidoo,Khuzhir,776,Estandar,2025,5
+989,8,2025-01-24,Computers,93.34,18,Jetwire,Marilao,764,Premium,2025,1
+990,9,2024-10-13,Jewelry,349.1,93,Jayo,Wahai,299,Premium,2024,10
+991,53,2025-01-14,Beauty,98.12,25,Izio,Nantes,202,Estandar,2025,1
+992,57,2024-11-09,Games,154.93,66,Youbridge,Oklahoma City,731,Estandar,2024,11
+993,38,2024-08-03,Music,447.5,43,Vinte,That Phanom,944,Estandar,2024,8
+994,64,2025-04-19,Toys,130.2,91,Quire,Ryazhsk,909,Estandar,2025,4
+995,162,2025-01-26,Automotive,264.01,82,Yata,Yingpu,686,Estandar,2025,1
+996,54,2025-03-17,Grocery,81.33,61,Vitz,Kislyakovskaya,260,Estandar,2025,3
+997,3,2025-04-22,Clothing,14.83,46,Jatri,Katima Mulilo,476,Premium,2025,4
+998,189,2024-11-24,Shoes,171.02,46,Dabjam,Cibolang,878,Premium,2024,11
+999,135,2025-03-21,Industrial,489.02,33,Skivee,Vale Maceiras,335,Estandar,2025,3
+1000,133,2025-06-15,Movies,140.98,47,Flashset,Kihniö,167,Estandar,2025,6
